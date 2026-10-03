@@ -5,7 +5,7 @@ Production website for **G Tech Lights** (https://gtechlights.com), built with N
 ```bash
 npm install
 npm run dev        # http://localhost:3000
-npm run build      # production build (247 static pages)
+npm run build      # static export to out/ (250 pages) for GitHub Pages
 npm start          # serve the production build
 npm run assets     # re-process photos from ../Information into public/images
 npm run lint       # ESLint
@@ -69,7 +69,7 @@ src/
   components/sections/      ← HomeHero, PageHero, ProjectCard, ProjectGallery, Lightbox, ImageGrid,
                               IndustryCard, LeadershipCard, WhyGrid, ProcessTimeline,
                               ClientReferences, CTASection, ContactForm
-  app/                      ← routes, api/enquiry, sitemap, robots, icons, 404, loading
+  app/                      ← routes, sitemap, robots, icons, 404, loading (static export — no API routes)
 scripts/build-assets.mjs    ← photo pipeline (WebP, crops, blur placeholders), logo SVGs, icons, OG image
 ```
 
@@ -128,7 +128,7 @@ When adding a new section, use the same pattern: `fitSection` on the `<section>`
 Some photos were cropped to remove third-party brand signage, TV screens, a camera watermark and faces (see `keep` in `scripts/build-assets.mjs`).
 
 ### Still needed from the client
-1. SMTP details for the enquiry mailbox (the form falls back to email/WhatsApp/call until then).
+1. Web3Forms access key for info@gtechlights.com (free; the form falls back to email/WhatsApp/call until then) — see section 5.
 2. ~~WhatsApp number~~ — confirmed: +91 81978 31032 (main number for calls and WhatsApp).
 3. The original vector logo (CorelDRAW / AI / SVG).
 4. Project client names and locations; confirmation of project titles.
@@ -155,15 +155,25 @@ Some photos were cropped to remove third-party brand signage, TV screens, a came
 
 ---
 
-## 5. Deployment (gtechlights.com)
+## 5. Deployment — GitHub Pages (gtechlights.com)
 
-Recommended: **Vercel** (zero-config for Next.js) or any Node 20+ host (`npm run build && npm start`).
+The site is a **static export** (`output: "export"` in `next.config.ts`): `npm run build` writes the complete site to `out/`, then runs `scripts/flatten-segments.mjs`, which copies Next.js prefetch files to the names the browser requests (GitHub Pages can't map them itself). Pages are written as `about/index.html` (`trailingSlash: true`), so URLs end with `/`.
 
-1. Push this folder to a Git repository and import it in Vercel.
-2. Set environment variables (see `.env.example`):
-   - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS` — the mailbox that sends enquiries (e.g. info@gtechlights.com).
-   - `ENQUIRY_TO` (defaults to info@gtechlights.com), `ENQUIRY_FROM`, `NEXT_PUBLIC_WHATSAPP_NUMBER`.
-3. Add the domain `gtechlights.com` (and redirect `www`) in the host's domain settings and update DNS at the registrar.
-4. Submit `https://gtechlights.com/sitemap.xml` in Google Search Console and create/verify the Google Business Profile.
+**Publishing is automatic:** every push to `main` runs `.github/workflows/deploy.yml`, which builds and publishes to GitHub Pages. `public/CNAME` sets the custom domain.
 
-Until SMTP is configured the form shows a clear fallback (pre-filled email to info@gtechlights.com, WhatsApp, or call), so no enquiry is lost.
+### One-time setup
+1. **GitHub repository** — create it (public for free Pages; private needs GitHub Pro), then push `main`.
+2. **Repository → Settings → Pages** — Source: **GitHub Actions**. Custom domain: `gtechlights.com`. Tick **Enforce HTTPS** once the certificate is issued.
+3. **DNS at Hostinger** (hPanel → Domains → gtechlights.com → DNS / Nameservers):
+   - Delete the existing `A` record for `@` (the parking IP).
+   - Add four `A` records for `@`: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.
+   - Add a `CNAME` record for `www` → `<github-username>.github.io`.
+   - Leave `MX` and other email records unchanged (they run the info@gtechlights.com mailbox).
+4. **Enquiry form** — get a free access key at [web3forms.com](https://web3forms.com) for `info@gtechlights.com`, add it under **Settings → Secrets and variables → Actions → Variables** as `WEB3FORMS_KEY`, and re-run the workflow. Until then the form shows an email / WhatsApp / call fallback.
+5. **After launch** — submit `https://gtechlights.com/sitemap.xml` in Google Search Console and set up the Google Business Profile.
+
+### Limits of static hosting
+- No server code: the enquiry form posts directly to Web3Forms (`src/lib/sendEnquiry.ts`, 250 free submissions/month).
+- No custom HTTP headers or redirects; images are the pre-optimised WebP files from `npm run assets` (Next.js runtime image optimisation is off).
+- To move to Vercel or Netlify later, remove `output: "export"` and the workflow — the rest of the code works unchanged.
+

@@ -39,7 +39,7 @@ export const privacyPolicy: LegalDoc = {
           items: [
             "Enquiry form: your name, company (optional), phone number, email address, project type and message — including any product codes and quantities you add from the quote list.",
             "WhatsApp, phone and email: if you contact us this way, we receive the details and messages you send through those services.",
-            "Technical data: our hosting provider automatically processes standard server logs (such as IP address, browser type and pages requested) to deliver the website and keep it secure.",
+            "Technical data: our hosting provider, GitHub Pages (GitHub, Inc.), automatically processes standard server logs (such as IP address, browser type and pages requested) to deliver the website and keep it secure.",
             "On your own device: your quote list and your cookie choice are stored in your browser's local storage. This data stays on your device and is not sent to us unless you submit an enquiry.",
           ],
         },
@@ -68,7 +68,7 @@ export const privacyPolicy: LegalDoc = {
         {
           type: "ul",
           items: [
-            "Service providers who help us run the website and communicate with you — our website hosting provider and our email service provider (enquiries are delivered to our business mailbox).",
+            "Service providers who help us run the website and communicate with you — GitHub Pages (website hosting), Web3Forms (which delivers enquiry-form submissions to our business mailbox) and our email provider.",
             "WhatsApp (Meta), Google and your telephone or email provider, when you choose to contact us through them or load the map. Their own privacy policies apply.",
             "Government or law-enforcement authorities where required by law.",
           ],
@@ -85,7 +85,7 @@ export const privacyPolicy: LegalDoc = {
     {
       heading: "6. How we protect it",
       blocks: [
-        { type: "p", text: "The website is served over HTTPS, enquiry emails are sent through an authenticated mail service, and access to enquiries is limited to people at G Tech Lights who need it to respond. No method of transmission or storage is completely secure, but we take reasonable security practices and procedures to protect your data, as required under the Information Technology Act, 2000 and its rules." },
+        { type: "p", text: "The website is served over HTTPS, enquiry-form submissions are sent over an encrypted connection to our form-delivery service and on to our business mailbox, and access to enquiries is limited to people at G Tech Lights who need it to respond. No method of transmission or storage is completely secure, but we take reasonable security practices and procedures to protect your data, as required under the Information Technology Act, 2000 and its rules." },
       ],
     },
     {

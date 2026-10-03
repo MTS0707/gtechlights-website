@@ -1,36 +1,20 @@
 import type { NextConfig } from "next";
 
-const securityHeaders = [
-  { key: "X-Content-Type-Options", value: "nosniff" },
-  { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
-  { key: "X-Frame-Options", value: "SAMEORIGIN" },
-  { key: "Permissions-Policy", value: "camera=(), microphone=(), geolocation=()" },
-];
-
+/**
+ * Static export for GitHub Pages (https://gtechlights.com).
+ * `next build` writes the complete site to `out/`, which the GitHub Actions
+ * workflow (.github/workflows/deploy.yml) publishes.
+ *
+ * Not available on a static host (and therefore not used): API routes,
+ * redirects/headers config, and Next.js on-the-fly image optimisation —
+ * images are pre-optimised to WebP by `npm run assets` instead.
+ */
 const nextConfig: NextConfig = {
+  output: "export",
+  // Writes about/index.html (not about.html + about/ folder), which GitHub Pages always serves correctly.
+  trailingSlash: true,
   poweredByHeader: false,
-  images: {
-    formats: ["image/avif", "image/webp"],
-    deviceSizes: [640, 828, 1080, 1280, 1600, 1920],
-  },
-  async headers() {
-    return [
-      { source: "/:path*", headers: securityHeaders },
-      {
-        source: "/images/:path*",
-        headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
-      },
-    ];
-  },
-  async redirects() {
-    return [
-      { source: "/home", destination: "/", permanent: true },
-      { source: "/about-us", destination: "/about", permanent: true },
-      { source: "/rnd", destination: "/r-and-d", permanent: true },
-      { source: "/why-us", destination: "/why-g-tech-lights", permanent: true },
-      { source: "/blog", destination: "/insights", permanent: true },
-    ];
-  },
+  images: { unoptimized: true },
 };
 
 export default nextConfig;

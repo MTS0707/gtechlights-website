@@ -6,6 +6,7 @@ import { CheckCircle2, AlertTriangle, Loader2 } from "lucide-react";
 import { projectTypes, validateEnquiry, type Enquiry, type EnquiryErrors } from "@/lib/enquiry";
 import { site, whatsappUrl } from "@/config/site";
 import { useQuoteList } from "@/lib/quote";
+import { sendEnquiry } from "@/lib/sendEnquiry";
 
 type Status = "idle" | "sending" | "success" | "error";
 
@@ -23,7 +24,6 @@ export function ContactForm({ defaultProjectType = "", defaultMessage = "", quot
   const quote = useQuoteList();
   const [errors, setErrors] = useState<EnquiryErrors>({});
   const [status, setStatus] = useState<Status>("idle");
-  const [serverMessage, setServerMessage] = useState("");
 
   const set = (k: keyof Enquiry) => (e: { target: { value: string } }) => {
     setValues((v) => ({ ...v, [k]: e.target.value }));
@@ -45,27 +45,17 @@ export function ContactForm({ defaultProjectType = "", defaultMessage = "", quot
       return;
     }
     setStatus("sending");
-    setServerMessage("");
-    try {
-      const honeypot = (e.currentTarget.elements.namedItem("website") as HTMLInputElement | null)?.value ?? "";
-      const res = await fetch("/api/enquiry", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...values, website: honeypot }),
-      });
-      const json = await res.json().catch(() => ({}));
-      if (res.ok && json.ok) {
-        setStatus("success");
-        if (quoteCodes.length) quote.clear();
-        setValues({ ...empty });
-        return;
-      }
-      if (json.errors) setErrors(json.errors);
-      setServerMessage(typeof json.error === "string" && !["not_configured", "send_failed"].includes(json.error) ? json.error : "");
-      setStatus("error");
-    } catch {
-      setStatus("error");
+    const honeypot = (e.currentTarget.elements.namedItem("website") as HTMLInputElement | null)?.value ?? "";
+    const { data } = validateEnquiry(values);
+    const result = await sendEnquiry(data, honeypot);
+    if (result === "sent") {
+      setStatus("success");
+      if (quoteCodes.length) quote.clear();
+      setValues({ ...empty });
+      return;
     }
+    // "not_configured" or "failed": show the email / WhatsApp / call fallback
+    setStatus("error");
   }
 
   if (status === "success") {
@@ -201,7 +191,7 @@ export function ContactForm({ defaultProjectType = "", defaultMessage = "", quot
         <div role="alert" className="flex gap-3 border border-red-200 bg-red-50 p-5 text-sm text-red-800 sm:col-span-2">
           <AlertTriangle aria-hidden className="size-5 shrink-0" />
           <div>
-            <p className="font-semibold">{serverMessage || "We couldn't send your enquiry online right now."}</p>
+            <p className="font-semibold">We couldn&apos;t send your enquiry online right now.</p>
             <p className="mt-1">
               Please{" "}
               <a href={mailtoFallback()} className="font-semibold underline">

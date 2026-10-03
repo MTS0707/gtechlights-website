@@ -8,8 +8,12 @@ type PageMeta = {
   image?: string;
 };
 
+/** Site URLs end with "/" (trailingSlash in next.config) — keep canonical links identical to the served URL. */
+export const withSlash = (path: string) => (path === "/" || path.endsWith("/") ? path : `${path}/`);
+
 /** Builds per-page metadata with canonical URL and Open Graph / Twitter tags. */
-export function pageMetadata({ title, description, path, image = "/og-image.jpg" }: PageMeta): Metadata {
+export function pageMetadata({ title, description, path: rawPath, image = "/og-image.jpg" }: PageMeta): Metadata {
+  const path = withSlash(rawPath);
   return {
     title,
     description,
@@ -102,7 +106,7 @@ export function breadcrumbJsonLd(items: { name: string; path: string }[]) {
       "@type": "ListItem",
       position: i + 1,
       name: item.name,
-      item: `${site.url}${item.path}`,
+      item: `${site.url}${withSlash(item.path)}`,
     })),
   };
 }

@@ -38,7 +38,7 @@ export default async function ArticlePage({ params }: PageProps<"/insights/[slug
           image: `${site.url}${a.image.src}`,
           author: { "@type": "Organization", name: site.name },
           publisher: { "@id": `${site.url}/#organization` },
-          mainEntityOfPage: `${site.url}/insights/${a.slug}`,
+          mainEntityOfPage: `${site.url}/insights/${a.slug}/`,
         }}
       />
       <PageHero

@@ -1,8 +1,11 @@
 import type { MetadataRoute } from "next";
 import { site } from "@/config/site";
+import { withSlash } from "@/lib/seo";
 import { projects } from "@/data/projects";
 import { articles } from "@/data/insights";
 import { products } from "@/data/products";
+
+export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -25,9 +28,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ["/disclaimer", 0.3],
   ];
   return [
-    ...pages.map(([path, priority]) => ({ url: `${site.url}${path}`, lastModified: now, changeFrequency: "monthly" as const, priority })),
-    ...projects.map((p) => ({ url: `${site.url}/projects/${p.slug}`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.6 })),
-    ...products.map((p) => ({ url: `${site.url}/products/${p.slug}`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.5 })),
-    ...articles.map((a) => ({ url: `${site.url}/insights/${a.slug}`, lastModified: new Date(a.date), changeFrequency: "yearly" as const, priority: 0.4 })),
+    ...pages.map(([path, priority]) => ({ url: `${site.url}${withSlash(path || "/")}`, lastModified: now, changeFrequency: "monthly" as const, priority })),
+    ...projects.map((p) => ({ url: `${site.url}/projects/${p.slug}/`, lastModified: now, changeFrequency: "yearly" as const, priority: 0.6 })),
+    ...products.map((p) => ({ url: `${site.url}/products/${p.slug}/`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.5 })),
+    ...articles.map((a) => ({ url: `${site.url}/insights/${a.slug}/`, lastModified: new Date(a.date), changeFrequency: "yearly" as const, priority: 0.4 })),
   ];
 }

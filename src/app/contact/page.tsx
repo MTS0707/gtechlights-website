@@ -1,11 +1,10 @@
 import { Mail, MapPin, Phone, Globe, FileText } from "lucide-react";
 import { pageMetadata } from "@/lib/seo";
-import { projectTypes } from "@/lib/enquiry";
 import { fullAddress, mapsLinkUrl, site, whatsappUrl } from "@/config/site";
 import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
 import { PageHero } from "@/components/sections/PageHero";
-import { ContactForm } from "@/components/sections/ContactForm";
+import { ContactFormFromQuery } from "@/components/sections/ContactFormFromQuery";
 import { ConsentMap } from "@/components/legal/ConsentMap";
 
 export const metadata = pageMetadata({
@@ -15,41 +14,7 @@ export const metadata = pageMetadata({
   path: "/contact",
 });
 
-/** Maps a ?type= hint from CTA links to one of the form's project types. */
-function matchProjectType(hint?: string) {
-  if (!hint) return "";
-  const h = hint.toLowerCase();
-  const pick = (needle: string) => projectTypes.find((t) => t.toLowerCase().includes(needle)) ?? "";
-  if (h.includes("quot") || h.includes("price")) return pick("quotation");
-  if (h.includes("ups") || h.includes("batter")) return pick("ups");
-  if (h.includes("custom")) return pick("customized");
-  if (h.includes("architectural")) return pick("architectural");
-  if (h.includes("interior")) return pick("interior");
-  if (h.includes("designer") || h.includes("decorative") || h.includes("specialty")) return pick("designer");
-  if (h.includes("residential")) return pick("residential");
-  if (h.includes("hospitality") || h.includes("retail")) return pick("hospitality");
-  if (h.includes("commercial") || h.includes("corporate")) return pick("commercial");
-  return "";
-}
-
-export default async function ContactPage({ searchParams }: PageProps<"/contact">) {
-  const { type, products } = await searchParams;
-  const defaultType = matchProjectType(typeof type === "string" ? type : undefined);
-  // Product codes from the catalogue quote list (e.g. ?products=GTC 1504,GTC 1510)
-  const codes = (typeof products === "string" ? products : "")
-    .split(",")
-    .map((c) => c.trim())
-    .filter((c) => /^GTC [\w-]{2,15}$/i.test(c))
-    .slice(0, 50);
-  const defaultMessage = codes.length
-    ? [
-        "Please share the price and best offer for:",
-        ...codes.map((c) => `- ${c} — Qty: `),
-        "",
-        "Site / delivery location: ",
-      ].join("\n")
-    : "";
-
+export default function ContactPage() {
   return (
     <>
       <PageHero
@@ -76,7 +41,7 @@ export default async function ContactPage({ searchParams }: PageProps<"/contact"
               <h2 className="text-3xl font-semibold tracking-tight text-ink-900 sm:text-4xl">Send an enquiry</h2>
               <p className="mt-3 text-ink-500">Share a few details and our team will get back to you.</p>
               <div className="mt-12">
-                <ContactForm key={defaultType + codes.join()} defaultProjectType={defaultType} defaultMessage={defaultMessage} quoteCodes={codes} />
+                <ContactFormFromQuery />
               </div>
             </div>
 
