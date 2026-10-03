@@ -1,0 +1,27 @@
+p6-1|GTC 755|Wattage: 5W|Cct: 3000K/4000K|Lumens: 490Lm|Dimensions: L300XD27MM|Finish: White/Black/Wooden/Atk/Copper|Material: Aluminium Die Cast
+p6-2|GTC 758|Wattage: 5W|Cct: 3000K/4000K|Lumens: 490Lm|Dimensions: L300XD30MM|Finish: Atk|Material: Aluminium Die Cast
+p6-3|GTC 756-A|Wattage: 5W|Cct: 3000K/4000K|Lumens: 490Lm|Dimensions: L300XD35MM|Finish: Atk|Material: Aluminium Die Cast
+p6-4|GTC 2755|Wattage: 5W|Cct: 3000K/4000K|Lumens: 490Lm|Dimensions: L300XD25/L450XD25/L600XD25MM|Finish: White/Black|Material: Aluminium Die Cast
+p6-5|GTC 2760|Wattage: 5W|Cct: 3000K/4000K|Lumens: 490Lm|Dimensions: L300XD30MM|Finish: White/Black|Material: Aluminium Die Cast
+p6-6|GTC 1530-Atk|Wattage: 5W|Cct: 3000K/4000K|Lumens: 490Lm|Dimensions: L300XD30MM|Finish: Copper/Atk|Material: Aluminium Die Cast
+p6-7|GTC 1530-Bk|Wattage: 5W|Cct: 3000K/4000K|Lumens: 490Lm|Dimensions: L300XD30/L450XD30/L600XD30MM|Finish: Black/White|Material: Aluminium Die Cast
+p6-8|GTC 1537|Wattage: 20W|Cct: 3000K/4000K|Lumens: 1980Lm|Dimensions: D150XH100MM|Finish: Black/White|Material: Aluminium Die Cast
+p6-9|GTC 1537|Wattage: 12W|Cct: 3000K/4000K|Lumens: 1180Lm|Dimensions: D100XH150MM|Finish: Black/White|Material: Aluminium Die Cast
+p7-1|GTC 1538|Wattage: 12W|Cct: 3000K/4000K|Lumens: 1180Lm|Dimensions: L300XD50MM|Finish: Black-Copper/White-Copper|Material: Aluminium Die Cast
+p7-2|GTC 15409-A|Wattage: 12W|Cct: 3000K/4000K|Lumens: 1180Lm|Dimensions: L300XD75MM|Finish: White/Black|Material: Aluminium Die Cast
+p7-3|GTC 1542-B|Wattage: 15W|Cct: 3000K/4000K|Lumens: 1480Lm|Dimensions: L300XD100MM|Finish: White/Black|Material: Aluminium Die Cast
+p7-4|GTC 7920|Lamp: 3XE27|Dimensions: D420MM|Finish: White/Black|Material: Aluminium
+p7-5|GTC 7588|Lamp: 5XE27|Dimensions: D480MM|Finish: White/Black|Material: Aluminium
+p7-6|GTC 7365|Lamp: 1XE27|Dimensions: D300MM|Finish: White/Black|Material: Aluminium
+p7-7|GTC 2945-A|Lamp: 1XE27|Dimensions: D190MM|Finish: Atk-Brass|Material: Aluminium
+p7-8|GTC 2945-B|Lamp: 1XE27|Dimensions: D240MM|Finish: Atk-Brass|Material: Aluminium
+p7-9|GTC 2945-C|Lamp: 1XE27|Dimensions: D160MM|Finish: Atk-Brass|Material: Aluminium
+p8-1|GTC 1845|Lamp: 1XE27|Dimensions: D300MM|Finish: White-White/Black-White|Material: Aluminium/Wood
+p8-2|GTC 1830-A|Lamp: 1XE27|Dimensions: D250MM|Finish: White-White/Black-White|Material: Aluminium/Wood
+p8-3|GTC 1830-B|Lamp: 1XE27|Dimensions: D300MM|Finish: White-White/Black-White|Material: Aluminium/Wood
+p8-4|GTC 1832|Lamp: 1XE27|Dimensions: D350MM|Finish: White-White/Black-White|Material: Aluminium/Wood
+p8-5|GTC 1834|Lamp: 1XE27|Dimensions: D350MM|Finish: White-Copper|Material: Aluminium/Wood
+p8-6|GTC 7428|Lamp: 1XE27|Dimensions: D300MM|Finish: Black-White/White-White|Material: Aluminium/Wood
+p8-7|GTC 1837|Lamp: 1XE27|Dimensions: D240MM|Finish: Black-Gold/White-Gold|Material: Aluminium/Wood
+p8-8|GTC 1838|Lamp: 1XE27|Dimensions: D350MM|Finish: Copper-White|Material: Aluminium/Wood
+p8-9|GTC 7762|Lamp: 1XE27|Dimensions: D250MM|Finish: Black/White|Material: Aluminium/Wood

@@ -1,0 +1,27 @@
+p12-1|GTC 1647-A|Lamp: 1XE27|Dimensions: D300/D400MM|Finish: Antique Brass-Gold|Material: Aluminium
+p12-2|GTC 1647-B|Lamp: 1XE27|Dimensions: D300/D400MM|Finish: Copper-Gold|Material: Aluminium
+p12-3|GTC 1657|Lamp: 1XE27|Dimensions: D300MM|Finish: Copper|Material: Aluminium
+p12-4|GTC 2540-A|Lamp: 1XE27|Dimensions: D210MM|Finish: Copper|Material: Metal
+p12-5|GTC 2540-B|Lamp: 1XE27|Dimensions: D210MM|Finish: Gold|Material: Metal
+p12-6|GTC 2540-C|Lamp: 1XE27|Dimensions: D210MM|Finish: Chrome|Material: Metal
+p12-7|GTC 2987-CPR|Lamp: 1XE27|Dimensions: D225MM|Finish: Copper|Material: Metal
+p12-8|GTC 2987-ATK|Lamp: 1XE27|Dimensions: D225MM|Finish: Antique Brass|Material: Metal
+p12-9|GTC 0020|Lamp: 1XE27|Dimensions: D300MM|Finish: Black/Atk|Material: Metal/Glass
+p13-1|GTC 2987-A|Lamp: 1XE27|Dimensions: D225MM|Finish: White-White/Black-White|Material: Aluminium
+p13-2|GTC 2990|Lamp: 1XE27|Dimensions: D265MM|Finish: Black/White|Material: Aluminium
+p13-3|GTC 2550-A|Lamp: 1XE27|Dimensions: D400MM|Finish: Black-White/White-White|Material: Aluminium
+p13-4|GTC 2602|Lamp: 1XE27|Dimensions: D400MM|Finish: White-White/Black-White|Material: Aluminium
+p13-5|GTC 7963|Lamp: 1XE27|Dimensions: D350MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p13-6|GTC 1870|Lamp: 1XE27|Dimensions: D300MM|Finish: White-White/Black-White/Grey-White|Material: Aluminium
+p13-7|GTC 8847-A|Lamp: 1XE27|Dimensions: D300MM|Finish: White-White/Black-White|Material: Aluminium
+p13-8|GTC 8847-B|Lamp: 1XE27|Dimensions: D300MM|Finish: White-White/Black-White|Material: Aluminium
+p13-9|GTC 8847-C|Lamp: 1XE27|Dimensions: D260MM|Finish: White-White/Black-White|Material: Aluminium
+p14-1|GTC 1871|Lamp: 1XE27|Dimensions: D400MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p14-2|GTC 1872|Lamp: 1XE27|Dimensions: D400MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p14-3|GTC 1875|Lamp: 24W LED|Dimensions: D400MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p14-4|GTC 1876|Lamp: 24W LED|Dimensions: D350MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p14-5|GTC 1620|Lamp: 1XE27|Dimensions: D300/D400MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p14-6|GTC 1878|Lamp: 1XE27|Dimensions: D480MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p14-7|GTC 7747-A|Lamp: 1XE27|Dimensions: D400MM|Finish: White-White/Black-White|Material: Aluminium
+p14-8|GTC 7747-B|Lamp: 1XE27|Dimensions: D300MM|Finish: White-White/Black-White|Material: Aluminium
+p14-9|GTC 7747-C|Lamp: 1XE27|Dimensions: D260MM|Finish: White-White/Black-White|Material: Aluminium

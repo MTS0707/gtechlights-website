@@ -1,0 +1,6249 @@
+[
+ {
+  "slug": "gtc-1504-eco",
+  "code": "GTC 1504-ECO",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200XW150XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1504-eco.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAoAA4BaJaQAAup4JpcoQAD+9QblIn1stUuyCGyraY63PkeCx5LAcgYAAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1504",
+  "code": "GTC 1504",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "18W/36W/72W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "1780/3560/7120Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L600XW50XH70/L1200XW50XH70/L1800XW50XH70/L2400XW50XH70MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1504.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoKAAoAA4BaJaQAAqsrP94gAAD++LppLtUFWrpkEMmhcDXlQLUT3zvWzKoHukRcnOhVkSrYKuore4QAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1510",
+  "code": "GTC 1510",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "48W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "4750Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200XW35XH70MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1510.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoKAAoAA4BaJaQAAveCYnAAAP74s98p9+tM1oK6sQuhz32ByhZlWJiRQuhntmw3Z0lAAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1515",
+  "code": "GTC 1515",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "48W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "4750Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200XW50XH70MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1515.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoKAAoAA4BaJaQAAudDjegAAP74sGOPsYD+xlASeoBbNfcu2bgZku+yQAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1504-wd",
+  "code": "GTC 1504-WD",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200XW50XH70MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1504-wd.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoKAAoAA4BaJZwCw7EOgpoMAAD++LK8lYR1b+JabwpRfczMONM1Z5oB63lQ5DWqNsQAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1525-a",
+  "code": "GTC 1525-A",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "22W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2170Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Wooden/Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1525-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoKAAoAA4BaJYwCdB2gAfwSf4eQAAD++LmKhz8zr6Hb9cYe0TiNJfb87V+MKCurD8/49bDnKNDZDq0Xe3oAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1525-b",
+  "code": "GTC 1525-B",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "22W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2170Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Wooden/Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1525-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoKAAoAA4BaJZQC7AEO9c0BAAD++LBEwQs0snJOzshyh8J43GuBBfV4mZwHCkqA8wPgAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1525-c",
+  "code": "GTC 1525-C",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "22W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2170Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Wooden/Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1525-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAQAgCdASoKAAoAA4BaJZQCdAEO9JlhyPgAAP7362Q9yu9SfAd0GcQ1+XncoShxMyhdmrgA"
+  }
+ },
+ {
+  "slug": "gtc-1525-d",
+  "code": "GTC 1525-D",
+  "category": "linear",
+  "brochurePage": 3,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "22W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2170Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Wooden/Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1525-d.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoKAAoAA4BaJZQCw7DcrXAMIAD++Lp0hEI0yrzP7Tvf8bvwfDVQLwOTzv16IsAiEUul5buXeqmi9AzsAAA="
+  }
+ },
+ {
+  "slug": "gtc-1490",
+  "code": "GTC 1490",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "55W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "5440Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D750XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1490.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAAAwAQCdASoKAAoAA4BaJaQAA3AA/vRJi2g/hhnukeWU4weoBFuztcHfkAA="
+  }
+ },
+ {
+  "slug": "gtc-1495",
+  "code": "GTC 1495",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "55W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "5440Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D750XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1495.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAwAQCdASoKAAoAA4BaJaQAA3AA/vQRB7lmSblHDH3Pf1x90gtvSdFjj/gbg9MGGS4AAA=="
+  }
+ },
+ {
+  "slug": "gtc-1500",
+  "code": "GTC 1500",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "30W/36W/48W/55W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2970/3560/4750/5440/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300XH75/D450XH75/D600XH75/D750XH75/D900XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1500.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAoAA4BaJaQAAubeTS9xgAD++K8icRceVpJcqJzgtAwK3OcLmJKM12wAAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1501",
+  "code": "GTC 1501",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W/55W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2970/3560/4750/5440/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1501.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoKAAoAA4BaJaQAD4AQbj+xeAAA/vi6DHnXwzDTiLqbjrg910lGllGHf3gh8vWrPJA61gAAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1503",
+  "code": "GTC 1503",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "48W/55W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "4750/5440Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200XW300MM/L1200XW600MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1503.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoKAAoAA4BaJaQAAucRqjwggAD++LBjhXyVKsRmxDJNbGM8iLiUQAAA"
+  }
+ },
+ {
+  "slug": "gtc-1505",
+  "code": "GTC 1505",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560/4750/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1505.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoKAAoAA4BaJaQAAubeWaHgAP74sGra3+mYZwYJL7DhXTez9AAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1506",
+  "code": "GTC 1506",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560/4750/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1506.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJaQAD4AOzP6UAAD++LppSCSh4Bvq4QLneGtmRIlx38Q3KHNdGcaZXYNUfGu0AAA="
+  }
+ },
+ {
+  "slug": "gtc-1508",
+  "code": "GTC 1508",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "48W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "4750Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1508.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoKAAoAA4BaJYwCdH8AGESBBcwAAP7ijbkBJFdf9lK52JxXAxo9iD8ZkEDq4krey83/DbKMdn4Q9tLYto+H80M/EjZWK9UAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1509",
+  "code": "GTC 1509",
+  "category": "architectural",
+  "brochurePage": 4,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560/4750Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1509.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoKAAoAA4BaJZwAAt0Icg+YAP73PgdfFaM7kdEvsXESxCKAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1520",
+  "code": "GTC 1520",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560/4750/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300XH75/D450XH75/D600XH75/D900XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1520.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoKAAoAA4BaJaQAAsfrtzCacAAA/vfw7c7evvfqdxUy7bUfwrSYRKJEGYTFIE49AZEUk9b3aocAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1521",
+  "code": "GTC 1521",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560/4750/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75/D900XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1521.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoKAAoAA4BaJaQAAvrcZveDAAD+9z6bSUFbQz6CoYvLfGYB8AeVyGu7W7LeCCwAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1523",
+  "code": "GTC 1523",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "55W/110W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "5440/10890Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L600XW300XH70/L1200XW600XH70MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1523.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoKAAoAA4BaJaQAAudB7cAAAP74sGQ0mZicWHltMpCVodTPMTM5DAAAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1522",
+  "code": "GTC 1522",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560/4750/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1522.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAQCdASoKAAoAA4BaJaQAAuYRUAAA/vi6Ut7WVszlRjKa5gmjjdycv8Q2DM1AQKwBUFqCFVKIzhZ5mrbvV1p49iAAAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1524",
+  "code": "GTC 1524",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W/48W/75W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560/4750/7420Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1524.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoKAAoAA4BaJaQAAucQx9EAAP74sESWno+htm133cJEGfwFsoLb/34uQ/HQAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1526",
+  "code": "GTC 1526",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "48W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "4750Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D600XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1526.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoKAAoAA4BaJaQAAsfsM+X+9AAA/vi6aTq1+KVrBZUsd0HXpv7CHkzz45NUPjsm0FLPxMzgOFJTkAAA"
+  }
+ },
+ {
+  "slug": "gtc-1730",
+  "code": "GTC 1730",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "30W/40W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2970/3960Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450XH75/D600XH75/D900XH75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1730.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACQAQCdASoKAAoAA4BaJaQAAuYzJ4AA/viwaBb8NT3eDHCyt2nSAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1760-a",
+  "code": "GTC 1760-A",
+  "category": "architectural",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "30W"
+   },
+   {
+    "label": "CCT",
+    "value": "4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "2970Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D600XH25MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1760-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoKAAoAA4BaJaQAAsf+0740icAAAP74GX3BkMtl5cIws4DF8nVvxFVxdsPB58NNDd2uAAAA"
+  }
+ },
+ {
+  "slug": "gtc-5035",
+  "code": "GTC 5035",
+  "category": "linear",
+  "brochurePage": 5,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "36W"
+   },
+   {
+    "label": "CCT",
+    "value": "6500K/4000K/3000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "3560Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L1200XW50XH35MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-5035.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAwAQCdASoKAAoAA4BaJaQAA3AA/vSARaYhKAW5UkeZFfPW7PS+/Rey/Yn06M9OAAA="
+  }
+ },
+ {
+  "slug": "gtc-755",
+  "code": "GTC 755",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "5W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "490Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD27MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black/Wooden/Atk/Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-755.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoKAAoAA4BaJaQAAu0dssQ8IAD+9/zVBhCrzuM8arCoa/cgAAA="
+  }
+ },
+ {
+  "slug": "gtc-758",
+  "code": "GTC 758",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "5W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "490Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD30MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Atk"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-758.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAACQAQCdASoKAAoAA4BaJaQAAudPjMAA/vi5nyOaDQAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-756-a",
+  "code": "GTC 756-A",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "5W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "490Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD35MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Atk"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-756-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAAAwAQCdASoKAAoAA4BaJaQAA3AA/vTrsune1PGXtaYT6ZS3XaAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2755",
+  "code": "GTC 2755",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "5W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "490Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD25/L450XD25/L600XD25MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2755.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAAAwAQCdASoKAAoAA4BaJaQAA3AA/vToOhXZRsAcPwAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2760",
+  "code": "GTC 2760",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "5W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "490Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD30MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2760.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoKAAoAA4BaJaQAA3AA/vToOf1Gay8AAAA="
+  }
+ },
+ {
+  "slug": "gtc-1530-atk",
+  "code": "GTC 1530-Atk",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "5W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "490Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD30MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper/Atk"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1530-atk.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAACQAQCdASoKAAoAA4BaJaQAAudP1wAA/vi4gmCBvEDNH4AA"
+  }
+ },
+ {
+  "slug": "gtc-1530-bk",
+  "code": "GTC 1530-Bk",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "5W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "490Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD30/L450XD30/L600XD30MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1530-bk.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACQAQCdASoKAAoAA4BaJaQAAudP3WAA/vi4gmYr0KukA8YAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1537",
+  "code": "GTC 1537",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "20W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "1980Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D150XH100MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1537.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJaQAAua8ev984AD++LmZgx1PSbFQS8ubT7F3f1KVpwqyoMEwYV3/cOxsSXBAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1537-2",
+  "code": "GTC 1537",
+  "category": "cylinder",
+  "brochurePage": 6,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "12W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "1180Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D100XH150MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1537-2.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoKAAoAA4BaJaQAAudQmgLAAP74GemwGnOZvKHNo1HlEYpyuCufSAkpRemzvZxfQn82WikOLcAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1538",
+  "code": "GTC 1538",
+  "category": "cylinder",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "12W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "1180Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD50MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Copper/White-Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1538.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAoAA4BaJaQAAp03bq/AAP7ykFvfyRPb16333IUE4xYiHAGODAX6lF7UhEGjAAA="
+  }
+ },
+ {
+  "slug": "gtc-15409-a",
+  "code": "GTC 15409-A",
+  "category": "cylinder",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "12W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "1180Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD75MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-15409-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoKAAoAA4BaJaQAAudP3WAA/vi6UsRUjSJrJisLGoSRKT8ey/ggAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1542-b",
+  "code": "GTC 1542-B",
+  "category": "cylinder",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "15W"
+   },
+   {
+    "label": "CCT",
+    "value": "3000K/4000K"
+   },
+   {
+    "label": "Lumens",
+    "value": "1480Lm"
+   },
+   {
+    "label": "Dimensions",
+    "value": "L300XD100MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium Die Cast"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1542-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoKAAoAA4BaJaQAApz/iKgAAP74umlIrpbC5f5q4njdgTepY62wVFv9Of4AAA=="
+  }
+ },
+ {
+  "slug": "gtc-7920",
+  "code": "GTC 7920",
+  "category": "contemporary",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "3XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D420MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7920.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoKAAoAA4BaJaQAAueMDtY/+8AAAP74rzX/dBiFd279fBnqdeHHL//mZgaYlX5GAAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7588",
+  "code": "GTC 7588",
+  "category": "contemporary",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "5XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D480MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7588.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoKAAoAA4BaJaQAAueMDrm/8gAA/viwYfvjHA2EmlPwePiFn1ir88AtePv0EAAAAAA="
+  }
+ },
+ {
+  "slug": "gtc-7365",
+  "code": "GTC 7365",
+  "category": "contemporary",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7365.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJaQAAueCobLAAAD+9UscyYgQWjIZz3yfnR1gkLLXF5tmTLBk6XOwqKM6xj+AAAA="
+  }
+ },
+ {
+  "slug": "gtc-2945-a",
+  "code": "GTC 2945-A",
+  "category": "contemporary",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D190MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Atk-Brass"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2945-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoKAAoAA4BaJYwC7AELZSPwp7AAAP738KaJ4mmiYrAMgeDI5aY7vv2w9AGLl6sGtXpWmajwAAA="
+  }
+ },
+ {
+  "slug": "gtc-2945-b",
+  "code": "GTC 2945-B",
+  "category": "contemporary",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D240MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Atk-Brass"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2945-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoKAAoAA4BaJQAAU64yu27AAP74unSZw5+YdOeUJgysi00AivF1zR1mxU/kpiCgAAA="
+  }
+ },
+ {
+  "slug": "gtc-2945-c",
+  "code": "GTC 2945-C",
+  "category": "contemporary",
+  "brochurePage": 7,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D160MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Atk-Brass"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2945-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoKAAoAA4BaJYwAAueHHUmAAP74E2c27sGk0bAojwuFiUPr1trlnNeH1NbOcD9swOOAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1845",
+  "code": "GTC 1845",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1845.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoKAAoAA4BaJQBOgB6XQxWTOR0AAP74uj869CLyK04HYA0ZXdj3Pm7jnh7jNbHQAAA="
+  }
+ },
+ {
+  "slug": "gtc-1830-a",
+  "code": "GTC 1830-A",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1830-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoKAAoAA4BaJZQAAvabLj2frqAA/vQMjFcM9M9w2NbKIazuKyvuXe8zpQrfcO/Hucb6GLtEfkGgAA=="
+  }
+ },
+ {
+  "slug": "gtc-1830-b",
+  "code": "GTC 1830-B",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1830-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoKAAoAA4BaJZQC7AEVz2TJVF7QAP71Xw8vd8nMRd0NkCFXIAWBLjmor95a78iXwx/LXA94FI/EGfIvgAA="
+  }
+ },
+ {
+  "slug": "gtc-1832",
+  "code": "GTC 1832",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1832.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAA4BaJZwAAp3LjXjIM4AA/vfxZ0IOYbcTM+NdbynSpoeOgNidhwSt4/ZnrUYMkESSNMLMkDIuzZXLMdyr43c4Ero4AAA="
+  }
+ },
+ {
+  "slug": "gtc-1834",
+  "code": "GTC 1834",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1834.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJZQAApuO80NjAAD++LpwkUPWmMU+KuAQRtMjosdzCkaic/BxdntCFIWyai5AAAA="
+  }
+ },
+ {
+  "slug": "gtc-7428",
+  "code": "GTC 7428",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-White/White-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7428.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoKAAoAA4BaJQAAXOIeDj/YAAD++Lok16slsKQb70OeoEeUt4fPfFtEf928+OOSJNdCbuhf4+j/U6/d6c0sOTZ+SmL4AAAA"
+  }
+ },
+ {
+  "slug": "gtc-1837",
+  "code": "GTC 1837",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D240MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1837.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoKAAoAA4BaJZACdADdqi7npXToAAD++Lo/PFwP2Su0BBtbJ65ZVwZ3Ta2C8WBbTDLdtgBK5a4DbQAA"
+  }
+ },
+ {
+  "slug": "gtc-1838",
+  "code": "GTC 1838",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1838.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoKAAoAA4BaJZwC7AD0rztk/dgAAP74unCL2RKtIMYOm3Pwo6nVzua0b2c+5fOLQPzy5b4UWfzuRnsfqQAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7762",
+  "code": "GTC 7762",
+  "category": "wood-accent",
+  "brochurePage": 8,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7762.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoKAAoAA4BaJZwAApukhWAAAP72alRJfKR3EsxqXISVz9Jp4Ua4qnx0pMEH8aibi8D8AAAA"
+  }
+ },
+ {
+  "slug": "gtc-1840-a",
+  "code": "GTC 1840-A",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1840-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoKAAoAA4BaJZwAAp3AC01ZAAD++Lp0mcOlMqZKNnf6VW4p9dcUTuGDyQAcG7CYyLPNAQAA"
+  }
+ },
+ {
+  "slug": "gtc-1840-b",
+  "code": "GTC 1840-B",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D280MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1840-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoKAAoAA4BaJZwAAud1j0kmmoAAAP739KlLRrqAJjPYHnQYfCQ1XzfulB+bFtnV+y/YbokR0dpCgR1QIy4uhAAA"
+  }
+ },
+ {
+  "slug": "gtc-1842",
+  "code": "GTC 1842",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Wattage",
+    "value": "22W"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1842.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoKAAoAA4BaJZwAAua72RDnAAD++LolxjgUHZhZLBq4JBd+xljyqPTpRmbW3vAabKydhjl3w8IEFAAA"
+  }
+ },
+ {
+  "slug": "gtc-2575",
+  "code": "GTC 2575",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D380MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2575.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoKAAoAA4BaJZwAAueAqxIrkAAA/vi5n+4uS1oqEImI9I9jZDN3CAAA"
+  }
+ },
+ {
+  "slug": "gtc-1623",
+  "code": "GTC 1623",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1623.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoKAAoAA4BaJaQAAubVnW3AAP74uIMEPkEklb1rE1+tAO+DmFFvjkUReV7auVLrchQR+S4G+3DCAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1844",
+  "code": "GTC 1844",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D230MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1844.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoKAAoAA4BaJZgC7ADz79xiUQAA/vi6XBEp6sy7816ngfH7y8j8tt7nDubl0AeI919EPrNe28uZqG/brhQC0wlmSz2tGgtcTEQAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7869-a",
+  "code": "GTC 7869-A",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D240MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7869-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoKAAoAA4BaJZwAApwewbSHAAD++Lpb5GA213JTUUkxyI99l/ryyOqUqkKveQ+PHgDq4OicmWH5ReOAAAA="
+  }
+ },
+ {
+  "slug": "gtc-7869-b",
+  "code": "GTC 7869-B",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D340MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7869-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoKAAoAA4BaJQAAXNq3j3wAAP74ulMKnnOGyi5GDDZcV7ToaVXBmOuuXh16GlStWA+GhGvJqFahW/WpuDu0ikBP2zBP5PkAAAA="
+  }
+ },
+ {
+  "slug": "gtc-7869-c",
+  "code": "GTC 7869-C",
+  "category": "wood-accent",
+  "brochurePage": 9,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D340MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7869-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoKAAoAA4BaJYwAAubVmL3+AAD++LmfI8cY9IfavYFGghDTEw2S8OBo9Kuhg5Mu63iWioQqkzCpSqHc95TP1wIQAAA="
+  }
+ },
+ {
+  "slug": "gtc-1845-2",
+  "code": "GTC 1845",
+  "category": "wood-accent",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D360MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1845-2.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoKAAoAA4BaJZQAAucQw5GcPuAA/vi3WxX0GJ9S9uEGRZjXOrl77OimkkPKTOWJ8gvcwH7rAAA="
+  }
+ },
+ {
+  "slug": "gtc-7918",
+  "code": "GTC 7918",
+  "category": "wood-accent",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7918.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoKAAoAA4BaJZwAAsf2xfT3scAA/vZ3MTCnwjbx0/C5A6nuRvwvEh6MoX6ZNrSHrqYk3tAAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1846",
+  "code": "GTC 1846",
+  "category": "wood-accent",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1846.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoKAAoAA4BaJZQCw7DzvNnRAAD++Lpwgma9/pt+GCEZmldJUyhTgU/0UAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1850",
+  "code": "GTC 1850",
+  "category": "wood-accent",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1850.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoKAAoAA4BaJaQAAsef4QAA/vc+JaC+S5Zo9eIt2c3jF8fTKPs93L8MK3/WcmAAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1852-a",
+  "code": "GTC 1852-A",
+  "category": "contemporary",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D305/D405MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Polycarbonate"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1852-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAAAwAQCdASoKAAoAA4BaJaQAA3AA/vSBO0cF1t7sdShBrXV0AAA="
+  }
+ },
+ {
+  "slug": "gtc-1852-b",
+  "code": "GTC 1852-B",
+  "category": "contemporary",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D405MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Polycarbonate"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1852-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAADQAQCdASoKAAoAA4BaJaQAAudfJtj0AAD++LdajCM094gI2QAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7745-a",
+  "code": "GTC 7745-A",
+  "category": "wood-accent",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D140MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7745-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoKAAoAA4BaJaQAAudQUqOAAP74uIl1b3/gE7q/TkxZkyglezEw/AAA"
+  }
+ },
+ {
+  "slug": "gtc-7745-b",
+  "code": "GTC 7745-B",
+  "category": "wood-accent",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D230MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7745-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoKAAoAA4BaJZwAAudB2eBN4AD++LiVXT1lAzX9zGBcBhwbxag+iqNQ8HXyL83lvKsAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7745-c",
+  "code": "GTC 7745-C",
+  "category": "wood-accent",
+  "brochurePage": 10,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7745-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoKAAoAA4BaJZACdAEVz3T8jfzgAP74ubeOetbc4B0A1fnCQAHZ+fXnAyGKhSEmytsEtteNM11aTdBENAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7766-c",
+  "code": "GTC 7766-C",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D230MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7766-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoKAAoAA4BaJZwAAudQRI4AAP74ulHfas8as2py44V+U/9qT4szLMzPkbGtHAAA"
+  }
+ },
+ {
+  "slug": "gtc-7766-b",
+  "code": "GTC 7766-B",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7766-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoKAAoAA4BaJZwAAlyAnBIAAP74unCR5meivBaSC4S+WzXjXX5sqBRsRCAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7766-a",
+  "code": "GTC 7766-A",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7766-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoKAAoAA4BaJaACdADbaOLNAAD++BnliBtdpDYsaUjgx4ivYIzH9v4+nwvHadGL9GfjZG8M3t6UaSM2ueiYlYcjtzBDfYaEhtpauUAA"
+  }
+ },
+ {
+  "slug": "gtc-7984",
+  "code": "GTC 7984",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7984.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAA4BaJZQAAh5ZTPDxAAD+9kpYsre7fP7LLsT6b7POiH3nRtg5M4kGiivK2n4ujzGD2kpz19QJVx8JxoAozwoAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7985",
+  "code": "GTC 7985",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7985.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoKAAoAA4BaJaQAAtzJhiAAAP736l5zA3mJ36hqtPu2/e4JqU0YV9A1+O81WCdoh1hiAAAA"
+  }
+ },
+ {
+  "slug": "gtc-7974",
+  "code": "GTC 7974",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7974.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoKAAoAA4BaJaQAAtzzgD0SwAD++LmKfqZF/i3lF0G8ndPdsREV2hrEOcZmOxLzQgAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7558-a",
+  "code": "GTC 7558-A",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D320/D420MM"
+   },
+   {
+    "label": "Finish",
+    "value": "BK-WH/WH-WH/RD-WH/YL-WH/BL-WH/PK-WH"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7558-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoKAAoAA4BaJZwAAueBKOxIAAD+9mN50VV5Zf29TH8bKnd2z5CYv+fYSmAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7966",
+  "code": "GTC 7966",
+  "category": "wood-accent",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D320MM"
+   },
+   {
+    "label": "Finish",
+    "value": "BK-WH/WH-WH/RD-WH/YL-WH/BL-WH/PK-WH"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7966.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoKAAoAA4BaJaQAAu177TF6gAAA/vfvDQFYfsl4kT4aMS/URfx/NfqT1RS2lVebRt4HqD+ygAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1860",
+  "code": "GTC 1860",
+  "category": "contemporary",
+  "brochurePage": 11,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1860.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoKAAoAA4BaJQBdgCHh8ba8ROAA/vi6JcY4FB6Ml1kum1UCyfvKT8mHl39Mr2Jrj7Ozz2eqwpQuuqkeCOpNoNsG3/yxsCAA"
+  }
+ },
+ {
+  "slug": "gtc-1647-a",
+  "code": "GTC 1647-A",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Antique Brass-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1647-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoKAAoAA4BaJQBOgCHZ2uf67QAA/vi5nwnR3k1+Sts8Tq+b7T+extcFzTjSk2fY78gA8w6Wg3LxMXTNg++gAA=="
+  }
+ },
+ {
+  "slug": "gtc-1647-b",
+  "code": "GTC 1647-B",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1647-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoKAAoAA4BaJQBOgCHhsRifkAAA/vi5nyPHGSe1OXSMbvS//nAv0vET2EMWKE21XAPkYPXDS+URqwacaAA="
+  }
+ },
+ {
+  "slug": "gtc-1657",
+  "code": "GTC 1657",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1657.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAA4BaJQBOgB6JNwJ6Z4AA/vi6aUnUiz1x7q3P8pbIw4OIx/rblzDDvnBwC1kdU/8ygyMrb8eoTP5VSkDL6DRAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2540-a",
+  "code": "GTC 2540-A",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D210MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2540-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAA4BaJZACdAED8lfT4IAA/vgZcZM5GGjx7WO6Mk50ZkZ9KB+B132/hFnoC8XmNG9oQSbecgqmAGW+dq0F77AAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2540-b",
+  "code": "GTC 2540-B",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D210MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2540-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAA4BaJQBOgB53k0cMQAD+9/SrhFwGMZXarJ3Pjz06lcSTy4dv+lZobe3koNb5Q40rNnBBhESE2bzsgAAA"
+  }
+ },
+ {
+  "slug": "gtc-2540-c",
+  "code": "GTC 2540-C",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D210MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Chrome"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2540-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJZwAAtw5XSSvSAD+9/CpAiWxon9UaZ6FO67rJ+xwtF/+ZVgGtZN7571tee0wEAA="
+  }
+ },
+ {
+  "slug": "gtc-2987-cpr",
+  "code": "GTC 2987-CPR",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D225MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2987-cpr.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoKAAoAA4BaJYwC7AEPBS0+0bAA/vgZfcIYesTaoH+cED+ShSxcLxw/NsWTi9PRJkZ+K1pmReq7sjcZAAA="
+  }
+ },
+ {
+  "slug": "gtc-2987-atk",
+  "code": "GTC 2987-ATK",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D225MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Antique Brass"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2987-atk.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoKAAoAA4BaJZQCdAD0QobyL2AA/vgZfmilIaualeJxL7g+DemMVCg42yI46TsaRkytYdz280bc8EL4AAA="
+  }
+ },
+ {
+  "slug": "gtc-0020",
+  "code": "GTC 0020",
+  "category": "industrial",
+  "brochurePage": 12,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/Atk"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-0020.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAA4BaJQAB8S337we0wsAA/vi6PzeGzSCienI+EfNY+EPXflaDjsNk9HBDvyCZo0GDN1Pdio2f5OS38qu4AAA="
+  }
+ },
+ {
+  "slug": "gtc-2987-a",
+  "code": "GTC 2987-A",
+  "category": "industrial",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D225MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2987-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKAAoAA4BaJaQAAubBxf1M8gD++BlxMGf6fm+9Vf3bwrAxhDgQvLaCYKFadu0CJNenxO7WM+KAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2990",
+  "code": "GTC 2990",
+  "category": "industrial",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D265MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2990.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoKAAoAA4BaJaQAAuTuY/gAAP738RhzPRlSCRctF32aZdgjeljata9ejMfuLBoUDBbTgRvkniLN4AAA"
+  }
+ },
+ {
+  "slug": "gtc-2550-a",
+  "code": "GTC 2550-A",
+  "category": "contemporary",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-White/White-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2550-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoKAAoAA4BaJZwAAll3V1UgAP74unCvJNACjO1dPPSRaD65IP50b4mVe2V3sr17296sSs29nYiCS1/V3dgAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2602",
+  "code": "GTC 2602",
+  "category": "contemporary",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2602.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoKAAoAA4BaJZwAAudlKKnAgAD++Lmvynv2ISKJTGWmZE4HMe8O/8AljYVAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7963",
+  "code": "GTC 7963",
+  "category": "contemporary",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7963.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoKAAoAA4BaJQBdgCHZ01KcRYAA/vi6JcY4EUOlXS5vmJgYikQ6LaMcv4WJejCgbiEVQWbyqUS0fC90gPvZJaFNhr1xJ5FVgAA="
+  }
+ },
+ {
+  "slug": "gtc-1870",
+  "code": "GTC 1870",
+  "category": "contemporary",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1870.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAA4BaJZwAAubTLIQGMAD++LolxjgRQhX1HKeXDQhCipORZrIyJSiH1H9WQDaSJIm3vdyrUCzOUUAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-8847-a",
+  "code": "GTC 8847-A",
+  "category": "contemporary",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-8847-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoKAAoAA4BaJZwAApsva9gAAP74unCtEuIz7gJ/+xaE/zl/f3Og3ie30vW97hztM8MLcuAPtLqs1EXUAEAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-8847-b",
+  "code": "GTC 8847-B",
+  "category": "contemporary",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-8847-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAA4BaJZwAApyciCyppYAA/vi6cK0S1fwUXB9Xe0sd2J9mH0lziUod8K9/XBxaMiK4u1wyBk9Zvj7oAqvkAAA="
+  }
+ },
+ {
+  "slug": "gtc-8847-c",
+  "code": "GTC 8847-C",
+  "category": "contemporary",
+  "brochurePage": 13,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D260MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-8847-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoKAAoAA4BaJZwAAua70d/IAAD++LpTCqR8hGk/o/JuCWaxp/sBIWbeOAuTJ9YVLQ7ScKqornZw4933Nzz2RB+gCuIkAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1871",
+  "code": "GTC 1871",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1871.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoKAAoAA4BaJZwAAueBJ7p/rAAA/vi6Jjcnlp4pwwuaaM3jJMDn2X4Km1X1c2iXWNdi6FyStOwKv2UGjoaAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1872",
+  "code": "GTC 1872",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1872.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoKAAoAA4BaJZwAAuYyvTEAAP74t1mGHAySUrEThrd+baFVaI6kbf1plj0guP8pgAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1875",
+  "code": "GTC 1875",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "24W LED"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1875.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoKAAoAA4BaJZQAAuYspLAAAP74uIMCb/5gr7hGeeIVc1TyzXCdyt1nzIBoy2b6Pi5EmnAA"
+  }
+ },
+ {
+  "slug": "gtc-1876",
+  "code": "GTC 1876",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "24W LED"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1876.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoKAAoAA4BaJYwCw7ELPi/IAP73PprXZKCNp/0o+M1GXefpm2cIWHntCRXsrfxnS6Bq1GK/UeWxeVz3AAA="
+  }
+ },
+ {
+  "slug": "gtc-1620",
+  "code": "GTC 1620",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1620.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoKAAoAA4BaJZQAAubUDr/sXgAA/vfwliW3hMZb+3VcwpUGB8zvs1bD8TSCj57x3aB74DV1F0YAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1878",
+  "code": "GTC 1878",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D480MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1878.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKAAoAA4BaJYwAAubTrco4gAD++LiDB7JvJ0k+s+uYt3kRcDuzFElpMExI/u9X1gth5w9VegAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7747-a",
+  "code": "GTC 7747-A",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7747-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAA4BaJZwAAt0OK/hXYAD+8j4e3UFWvRcSr9jZxze2IV3kWQ02lbjK8pGEFVa//ULy4yvtI53VWcAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7747-b",
+  "code": "GTC 7747-B",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7747-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJZQAApx10eTEgAD++Lpwi3a9gIIhu7MOS1HCrD1/M2BQ8itkdv64AT/h99O6gAA="
+  }
+ },
+ {
+  "slug": "gtc-7747-c",
+  "code": "GTC 7747-C",
+  "category": "contemporary",
+  "brochurePage": 14,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D260MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7747-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoKAAoAA4BaJZQAAsf5MFWUv4QA/vi5OQGzqH69oXGUfiJljOlyRpDV1/4QwCSrh2JtIGYtjn/objrSWhE9P8AA"
+  }
+ },
+ {
+  "slug": "gtc-2624",
+  "code": "GTC 2624",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2624.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAA4BaJZQAApuhmlILAAD+9mo1+0QWzjxRpVWoauUlk0aOdj/h07us23OnWTL0tI+V7Yi7564IUkAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7808",
+  "code": "GTC 7808",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350/D460MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7808.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoKAAoAA4BaJZwAAueIH3QFOG2AAP74uiXGOBQdl2vygHThEFiPi5fqlYxPhMa86wKm+UcGcC3nJNo4AAA="
+  }
+ },
+ {
+  "slug": "gtc-1880",
+  "code": "GTC 1880",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D290MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1880.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoKAAoAA4BaJaQAAv+0siNdiAAA/vc+JZ7PXTyn20/yevBe+/azBjv69As+LB4BOY4en8A6KrliDzcMcw8IYEcAAAA="
+  }
+ },
+ {
+  "slug": "gtc-7950",
+  "code": "GTC 7950",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7950.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoKAAoAA4BaJaQAAueCzzgAAP74uiVu3W5ImjOXzbNrTN7K/9064SSqx5D42vN7uBDBV1vxd+KwAA=="
+  }
+ },
+ {
+  "slug": "gtc-1616",
+  "code": "GTC 1616",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D320MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1616.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJZwAAu1yzrsfAAD+9/Ef8TCBEX+ThF45rezbvh/iKxbUzIe8eTvRmB4mPgAAAAA="
+  }
+ },
+ {
+  "slug": "gtc-7504",
+  "code": "GTC 7504",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7504.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoKAAoAA4BaJaQAAp12NMseg0AA/uKVURD6G24K+Fr1vvzR/rfEsIPZHwcj9ysnf3DejIfTgJTAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2026",
+  "code": "GTC 2026",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250/D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2026.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAA4BaJZwAAl25D/GFoAD+9VnBh6NevgBPDXM62u5Jaer17bZbY1QSBaAyZscXqBtUxpSFUlOw2q1pipuNcAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1885",
+  "code": "GTC 1885",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Black-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1885.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoKAAoAA4BaJZQAAuYdZhcAAP74t1uSUqS89Yhzhf8Di+QlDSSMTRWr7KFHEdyW/6Ild5TLyG4AAA=="
+  }
+ },
+ {
+  "slug": "gtc-7265",
+  "code": "GTC 7265",
+  "category": "contemporary",
+  "brochurePage": 15,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7265.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoKAAoAA4BaJQAAXOSZIsAAAP736kZ6CcwonCflezznbPzUIvwxVYuer+eAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1662",
+  "code": "GTC 1662",
+  "category": "industrial",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Silver-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1662.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJaQAApuPG/9AAAD++LpwjPAOg72I8C2c/92MzfmFilNEWNz6ZpX/1Gfic/jAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1663",
+  "code": "GTC 1663",
+  "category": "industrial",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Rustic Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1663.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoKAAoAA4BaJaQAAp2OSuJPNeAA/vi6cJG+YfsVJ4/NtEXNSI8ia20MG6K7Nh2NBLjqau6e1S/BeXnavDMC9AAA"
+  }
+ },
+ {
+  "slug": "gtc-1600",
+  "code": "GTC 1600",
+  "category": "industrial",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D260MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1600.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAA4BaJaQAApuLdaiwAAD++LppSdSLPXHnPAwU9zeaR8SXNsRs0tdQHlta/P8bSi3D52qTDH7H577N4A7loAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2535",
+  "code": "GTC 2535",
+  "category": "contemporary",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2535.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoKAAoAA4BaJQBOgCHZ01b4gAAA/vi4gwYEY+7hCKyGwu6+MfFrw58LqQcjUB0QYkYE9W0AAAA="
+  }
+ },
+ {
+  "slug": "gtc-1887",
+  "code": "GTC 1887",
+  "category": "contemporary",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D240MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1887.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoKAAoAA4BaJaQAAubVP4AAAP74sGsdp1HQO6/ONh4rWmzJR17gaKAAAAA="
+  }
+ },
+ {
+  "slug": "gtc-2530",
+  "code": "GTC 2530",
+  "category": "contemporary",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2530.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoKAAoAA4BaJQAAXPGB66B9F0AA/vi4iXba/xeNskrUb9p3rXNdDPzfyf2XxE8j4+eQU19lr4Ed3/abn+uBCAAA"
+  }
+ },
+ {
+  "slug": "gtc-1625-a",
+  "code": "GTC 1625-A",
+  "category": "contemporary",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1625-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAA4BaJQAAU7lyJ+HgAAD++Lo/PR8ZdvP2zadfwesMP+uEuWs1b+NX48CH98T3oxOHDypC7W+cFPFs20/a8nQAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1625-b",
+  "code": "GTC 1625-B",
+  "category": "contemporary",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Antique Brass"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1625-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoKAAoAA4BaJQBOgCB/3hkMKPAAAP74tDfl/mYV/HISd2rHLST9W8cLuagUr0k0g0IZ1SUH0RA38JXnucRG+mB44qQ5vAcwbHR387gA"
+  }
+ },
+ {
+  "slug": "gtc-1625-a-2",
+  "code": "GTC 1625-A",
+  "category": "contemporary",
+  "brochurePage": 16,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Antique Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1625-a-2.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoKAAoAA4BaJQBOgBuJ57B+gwAA/vi2d+qxr8nz3UZ+kiafvOuBZPLh2Q9RXntIjvEM6pKD7Aq/5rzuS8lr7Iqkd0IQJeZh/w6GveRCAAA="
+  }
+ },
+ {
+  "slug": "gtc-1889",
+  "code": "GTC 1889",
+  "category": "industrial",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1889.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoKAAoAA4BaJQAAWP/WzsV2AAD++Bl9wp4ETCiwnoFel7VDkuQGY+9BTo8K6D9031dWZqiV14J7TR0acjHg6e5+2YJ8KuUAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1890",
+  "code": "GTC 1890",
+  "category": "industrial",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1890.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoKAAoAA4BaJZQC7AEPD421fuwAAP73XBwSEm1gm+kCpoG2kM7cnqCvbHdqSNNrUVxIUxw955ffvQqkFU7VTzXzUYG2bAAA"
+  }
+ },
+ {
+  "slug": "gtc-1815",
+  "code": "GTC 1815",
+  "category": "industrial",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1815.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoKAAoAA4BaJZQAAl2+Z37CuoAA/vgZ5R+uc8LZqdQHNiT8vPuP2mhQP+caG8LnsLXsliJX5r1EI/PF89jcoEpR1cE1hc3q2+uUFAAA"
+  }
+ },
+ {
+  "slug": "gtc-1892",
+  "code": "GTC 1892",
+  "category": "industrial",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D310MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/Grey-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1892.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoKAAoAA4BaJZwAAueNYat/AAAA/vi6JcY4EUMpXCV4A0vY8Sphb7JGF8SzxWycD1FOZSBhs3rzPksPFkc82AAA"
+  }
+ },
+ {
+  "slug": "gtc-1894",
+  "code": "GTC 1894",
+  "category": "contemporary",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1894.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoKAAoAA4BaJaQAAu1/g2s/QgAA/vfwqQJeJXk/JLp4V9bltPmL9jTjovA7qQnopgsxOuHEaT7QAq0T72LGZYAA"
+  }
+ },
+ {
+  "slug": "gtc-7488",
+  "code": "GTC 7488",
+  "category": "contemporary",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D270MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Leather"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7488.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoKAAoAA4BaJaQAAtzK8//AAAD+9+89CIkNpwHkh5Xv6NvrxG+37P63fCOYZFCiaUz7D3kg9hdHkLQAAAA="
+  }
+ },
+ {
+  "slug": "gtc-7502-a",
+  "code": "GTC 7502-A",
+  "category": "contemporary",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400/D500/D600MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7502-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoKAAoAA4BaJZwAAubTChr0AAD++LBq1mMPX+35U4QuaXQXLwAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7502-b",
+  "code": "GTC 7502-B",
+  "category": "contemporary",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400/D500/D600MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7502-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoKAAoAA4BaJZQCw7EOetrfUAAA/vfrZR2J/0p8HV5RcYip62WwdqzLQf2t+56UYoPN/sTxIYAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7558",
+  "code": "GTC 7558",
+  "category": "contemporary",
+  "brochurePage": 17,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250/D320/D420MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/Black-White/White-Gold/White-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7558.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoKAAoAA4BaJaQAAueLlR/70AAA/vfoQ//Jn4qseGjlaa8T/3R6O5AT23ur8Q889OfN3O/ZDPgAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7508",
+  "code": "GTC 7508",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-White/White-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7508.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoKAAoAA4BaJaQAD5AwMynlHNTgAP71WcGHo6cMnrNx+L1r0pKt+7R8dTsgE8iZTd5rDiQfiSsMlrtiYGzIJExsbiXPrRkwAAA="
+  }
+ },
+ {
+  "slug": "gtc-7430",
+  "code": "GTC 7430",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7430.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAA4BaJZwAAlvPgJm4AAD+9xVCkuIMo1G+dBdIa/8q/yrMq/e5lmG3Dl7P9AGbjEyWrHhKtNxOjH+O6AAA"
+  }
+ },
+ {
+  "slug": "gtc-1895",
+  "code": "GTC 1895",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1895.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoKAAoAA4BaJaQAAp3LbIkpQAAA/vi6aUl2x6e0CeWI6hcxEpy3LEuM6wnwf10MYMk1rSMnLg/ELDdomg2wAAAA"
+  }
+ },
+ {
+  "slug": "gtc-7712-a",
+  "code": "GTC 7712-A",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D190MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7712-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoKAAoAA4BaJaQAAp02x0AA/vi6W95Kputy9rv7LbCAxibVT8tDJr2ZYBaY+wonz6P0OAAA"
+  }
+ },
+ {
+  "slug": "gtc-7712-b",
+  "code": "GTC 7712-B",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D240MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7712-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoKAAoAA4BaJZQAD4lu0zHS1YcAAP74unSh+qHVM9b3Qir7xw/y28uqZQ5PpyiQO43MYjgWpNGzl5msNAp6eOAA"
+  }
+ },
+ {
+  "slug": "gtc-7712-c",
+  "code": "GTC 7712-C",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D360MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7712-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAQCdASoKAAoAA4BaJQAAXOoF9hpgAP74uIl21V8JNSVDWvsF0+MkTbgLMFE4aMy9/Nak3Pofz79NjBfBEv8nJb+VZcAA"
+  }
+ },
+ {
+  "slug": "gtc-7712-d",
+  "code": "GTC 7712-D",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7712-d.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoKAAoAA4BaJZQAD4/RcHUG8lwAAP738CL7op9viCYztX2DWGEflKWDsbPK+Xdordnky93zFHeQ4Yai7g8TEAFyn0PP3lMhQAA="
+  }
+ },
+ {
+  "slug": "gtc-1030",
+  "code": "GTC 1030",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1030.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAA4BaJaQAAud1jx8RiAAA/vi4k8AanQiqaTGJxxu9uqg35inWUfyd2BiASuKhtPsfcVLyMVv+T6gpoZ7pFQAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-2560",
+  "code": "GTC 2560",
+  "category": "contemporary",
+  "brochurePage": 18,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D180MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White/Grey"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2560.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKAAoAA4BaJaQAAtx5bSG4AAD+9UsSLFyVjTq/QKqrXrbWCJ+VyM8yJGiGllIxH3iWdNqBkEgAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1900",
+  "code": "GTC 1900",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D420MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Dark Brown"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1900.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoKAAoAA4BaJaQAAubTsn+8AAD++Lda1TQcsZsl6xqv8UAG3ElDrYPH/gAAAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1902",
+  "code": "GTC 1902",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Dark Granite"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1902.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoKAAoAA4BaJZQCdAEQFIJ5bDvwAAD+4NvcjoJeC3v4tdV+3WKI3ktOixdDPLG4HfordSaz2j0OnrwEi78gAA=="
+  }
+ },
+ {
+  "slug": "gtc-1903",
+  "code": "GTC 1903",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Cream Stone"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1903.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAA4BaJZQCdAELX3sGAAAA/tYry6dhx+HYMlrcRscaiGFuc0RO6+i+hTXLaFHedyz7dqX3Amdrqm1VoVscnigAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1904",
+  "code": "GTC 1904",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White Granite"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1904.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAgCdASoKAAoAA4BaJZQAAu1/RMfoHLtUAAD++Blxj/NM1grDRVsrlieD50SW/FzFe8yeEe+8Oik4IgAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1905",
+  "code": "GTC 1905",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1905.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoKAAoAA4BaJYwCdAD0lY5Y0AAA/ugA2SK/cLlYemhPgczCd6rAnWJRDVynWgVqsYAAR1n0gxOnDgZIv1wAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7485",
+  "code": "GTC 7485",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black-Gold/White-Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7485.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoKAAoAA4BaJQAAWP/WfVCi/AAA/vi6PuVf3a361P5YSES30VtpscvO/7BDVVrJAogBzOz1AQaSbgS/Dx5HsZP7Tc4UAA=="
+  }
+ },
+ {
+  "slug": "gtc-1907",
+  "code": "GTC 1907",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300/D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1907.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoKAAoAA4BaJQBOgB6V+OlYoFAAAP74unSZrb/GvOP+InylC6G2X9GSawB4/+YwCMQJC+8oLsfAQZJ7fURZ8CBv5CajTohmQAA="
+  }
+ },
+ {
+  "slug": "gtc-1908",
+  "code": "GTC 1908",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D320MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1908.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoKAAoAA4BaJYwCdAEPC3JVOYAAAP7oAKh/GC8PPrIvvIZzAbdVHxM5fAt70yz3BDPFO/wcvn3orCMIFFZwAA=="
+  }
+ },
+ {
+  "slug": "gtc-1910",
+  "code": "GTC 1910",
+  "category": "textured",
+  "brochurePage": 19,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Wooden"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1910.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAgCdASoKAAoAA4BaJZQCxC8AGBGV/x+AAP737uhimURem2weTMX6uyxdkBHhM4AAAA=="
+  }
+ },
+ {
+  "slug": "gtc-7931",
+  "code": "GTC 7931",
+  "category": "industrial",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D320MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7931.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoKAAoAA4BaJZwC7AEf/7EvS7qAAAD++BnngBItXJxigBTyVNd/c20k/PxZ0pzFcknXwWR+j8PlRhVjRTF27lztGGh5+ggA"
+  }
+ },
+ {
+  "slug": "gtc-7943",
+  "code": "GTC 7943",
+  "category": "industrial",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D360/D460MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-7943.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoKAAoAA4BaJaQAApxw/KEvUAD++LpcEpcVuiPGiBnvYWcIuj/Dw2DL7R8Moz5F6/kOjGE/aNPNF2CS+mIAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1685",
+  "code": "GTC 1685",
+  "category": "industrial",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black/White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1685.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABwAQCdASoKAAoAA4BaJaQAApWQIAD++Ln3Iqe80NJeZmQUaEEuj8Fbzv5vplFOusYEUTyX0AA="
+  }
+ },
+ {
+  "slug": "gtc-1915",
+  "code": "GTC 1915",
+  "category": "cage",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1915.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoKAAoAA4BaJaQAAt0OOaNALAAA/vgZ5Yiv9jQ7k69/dXPH6Tw7bg4YsVGFmj8hsNWpu12IK2k9GZNobAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1917",
+  "code": "GTC 1917",
+  "category": "cage",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1917.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKAAoAA4BaJaQAAxOem4KhmAD+9mtzT6fpIGjk/PEV90PS4WJcDYoR35CkVMZB7RY2BiTh1AAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1918",
+  "code": "GTC 1918",
+  "category": "cage",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D600MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1918.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoKAAoAA4BaJZwCw7EO+TnFLAAA/vi5nwmwBNZlC+DACc671LVEHrAaxe/QAA=="
+  }
+ },
+ {
+  "slug": "gtc-1919",
+  "code": "GTC 1919",
+  "category": "cage",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Wood"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1919.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoKAAoAA4BaJZwAAu1/XXzRTxAAAP74uiWtZ1BuG64fGIkICYHohqb8qiuqIyzvgAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1920",
+  "code": "GTC 1920",
+  "category": "cage",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D270MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1920.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKAAoAA4BaJaQAAlnyiny0QAD+9BJpd5QHbYCfvmvokUtqVteUXGqCIa7TZ2sqW2lWh4aro1uo/kUkgw1c71pJ7AAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1922",
+  "code": "GTC 1922",
+  "category": "cage",
+  "brochurePage": 20,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D260MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1922.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoKAAoAA4BaJaQAAlvLH1KAAP74GeeAD/iQomablm2/ONN+U2UwsQugCqHYvvXR4nNe2AQ75MAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1925-a",
+  "code": "GTC 1925-A",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1925-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoKAAoAA4BaJZwAAp1zsk2AAP738VjM3X0pyqUlaKSn2QCtI+Nv8Pbn0vFC32qfwToOAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1925-b",
+  "code": "GTC 1925-B",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1925-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoKAAoAA4BaJaQAAltMeAAA/vdeEI0r/AEw+2dpiEGb0iMaEQLfTvXQo4RWjzNfxvsCWcHgAAA="
+  }
+ },
+ {
+  "slug": "gtc-1925-c",
+  "code": "GTC 1925-C",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D350MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1925-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoKAAoAA4BaJZwAAl24NkGx3AD+9z6djGKYuRnOU/VnhUJ1jgQESVYbFPFzuNWunLvHkaNgY8ke7Nit7HSTsHMBAAA="
+  }
+ },
+ {
+  "slug": "gtc-1926",
+  "code": "GTC 1926",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D200MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1926.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoKAAoAA4BaJZwAAueIUlvAAP74uiXEG5s/3JBezvursNGd9/cBSqhEjAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1927",
+  "code": "GTC 1927",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D280MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1927.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoKAAoAA4BaJZwAAp25Uw6rjAAA/vfxb2TphHYZr+RhWLEmy/dJDegQIkf0G7cAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1928",
+  "code": "GTC 1928",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1928.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKAAoAA4BaJaQAAp3P2ejKAAD++LZ35ulC/K04qFimXsMAbE8iaWXMt8h3vPRwzNzEE4BrgAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1680",
+  "code": "GTC 1680",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D120MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1680.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoKAAoAA4BaJaQAAlyAPngAAP738VjjFjqIKM2unSj86NCzaPPdqHPW9wuQ/mINMvgAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1681",
+  "code": "GTC 1681",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D110MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1681.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoKAAoAA4BaJaQAAu1tNQSAAP73Xdtvb0TDjSKtFb629P2SyDySu029h01Yhrn8CRigAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1686",
+  "code": "GTC 1686",
+  "category": "cage",
+  "brochurePage": 21,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D190MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1686.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoKAAoAA4BaJZwAAtzyoLzoAP74GeWIFCTjFbnDWPeSXFoIbZrn1nCnX+uJMGrTDb4StyhHgQAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1684",
+  "code": "GTC 1684",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D150MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1684.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoKAAoAA4BaJZwAAxf9WkDgAP73Pi3hBAqz+8Z6w2rf0kE2EflIO6+NmYEGu4yA84cwAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1687",
+  "code": "GTC 1687",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D190MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1687.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoKAAoAA4BaJZwAApyUp6QMkAD++LZ38lhS1flVYJl2FOZhisH5tnOGpj/WESrK/xJTWBRnAAA="
+  }
+ },
+ {
+  "slug": "gtc-1682",
+  "code": "GTC 1682",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D180MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1682.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoKAAoAA4BaJZwAAp14WDa8AAD++Lk5Bel6qXn7JM69a1wOydsTF9WZnaXacx26FQ7FQAAA"
+  }
+ },
+ {
+  "slug": "gtc-1800",
+  "code": "GTC 1800",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D400MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Fabric"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1800.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoKAAoAA4BaJZQCdADcZhOB6v8AAP73PiWgve9/OYYJv7vsT0b5Cp9x6HH7EcTou2AKeHoSKN+9AeNA/GCj1Pej240fdy+OEbrkAA=="
+  }
+ },
+ {
+  "slug": "gtc-1690-a",
+  "code": "GTC 1690-A",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D280MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Fabric"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1690-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoKAAoAA4BaJaQAApyuXSZdYgD+9/E6CQu3u7dJB4P/hsPBtgXISsOFITH5i1coAAA="
+  }
+ },
+ {
+  "slug": "gtc-1690-b",
+  "code": "GTC 1690-B",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Fabric"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1690-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoKAAoAA4BaJQBOgCHgSih98YAA/vgZbJItGbmjXtLWRZOna9Brb8sWiEt1hr1zE3NwAA=="
+  }
+ },
+ {
+  "slug": "gtc-1695-a",
+  "code": "GTC 1695-A",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1695-a.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoKAAoAA4BaJaQAAudP6SAA/vi6JcZLnEZcvS8SrWcINb13ms3xZS/tPAAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1695-b",
+  "code": "GTC 1695-B",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Copper"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1695-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoKAAoAA4BaJZwAAudSQpOgAP74ubNkyn6TMZrhcMFA176sscG9AAAA"
+  }
+ },
+ {
+  "slug": "gtc-1930",
+  "code": "GTC 1930",
+  "category": "cage",
+  "brochurePage": 22,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1930.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoKAAoAA4BaJaQAAlsy0HEAAP74unSh/w6bbA4lwBaEdfGyI/ms6WGXwPcAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1932",
+  "code": "GTC 1932",
+  "category": "cage",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1932.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoKAAoAA4BaJaQAAudihFpsgAD++Lok9qGnmmqrzDsNfqGM6AAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1933",
+  "code": "GTC 1933",
+  "category": "cage",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D270MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1933.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoKAAoAA4BaJaQAAp1TNWKMAAD++Lp3ex6stnhf6J+YPoWAAAA="
+  }
+ },
+ {
+  "slug": "gtc-1935",
+  "code": "GTC 1935",
+  "category": "cage",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Gold"
+   },
+   {
+    "label": "Material",
+    "value": "Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1935.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoKAAoAA4BaJZwAAu18P5pwAP74uZ/uJCIkAoAUAQuL1GYAAAA="
+  }
+ },
+ {
+  "slug": "gtc-2470",
+  "code": "GTC 2470",
+  "category": "glass",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D178MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Clear White"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2470.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoKAAoAA4BaJaQAAlxX6d8AAP74uj88bs/YlY9PS8MXBxoexedogAAA"
+  }
+ },
+ {
+  "slug": "gtc-2480",
+  "code": "GTC 2480",
+  "category": "glass",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D178MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Clear White"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2480.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoKAAoAA4BaJaQAAp1cUUcU4AD++LpcESuFbcQzIGSTheRbkZSRAAAA"
+  }
+ },
+ {
+  "slug": "gtc-2490",
+  "code": "GTC 2490",
+  "category": "glass",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D203MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Clear White"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2490.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoKAAoAA4BaJaQAAudPjMAA/vi6JNZfbOLzN1Lcj74ZMwHZgAA="
+  }
+ },
+ {
+  "slug": "gtc-2500",
+  "code": "GTC 2500",
+  "category": "glass",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D203MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Clear White"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2500.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoKAAoAA4BaJZwAAlebrAAA/vgZ54ASLukUTmblYq15IrVL5ur1x5naXo6cXlQTcR6AKWAA"
+  }
+ },
+ {
+  "slug": "gtc-1938",
+  "code": "GTC 1938",
+  "category": "glass",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D250/D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Milky White"
+   },
+   {
+    "label": "Material",
+    "value": "Metal/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1938.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoKAAoAA4BaJaQAAuXN6OdQAAD++LmkPelVwAM1JpDLm612AXPgAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1940",
+  "code": "GTC 1940",
+  "category": "glass",
+  "brochurePage": 23,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D300MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1940.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoKAAoAA4BaJaQAAtvJ+lq1AAD+nDRTje7Tuqn+n25jgDrizweKs8W0pVTcqn939EbtXRCY5quyHwmdKJQ0K0AA"
+  }
+ },
+ {
+  "slug": "gtc-1945-a",
+  "code": "GTC 1945-A",
+  "category": "contemporary",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D160MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": null
+ },
+ {
+  "slug": "gtc-1945-b",
+  "code": "GTC 1945-B",
+  "category": "contemporary",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D190MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1945-b.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoKAAoAA4BaJaQAAud+/3jQAP738KjBRRz0BHuw2hgMJODNS0B7Rl6lLe+gS8tmERV3TDdoAAA="
+  }
+ },
+ {
+  "slug": "gtc-1945-c",
+  "code": "GTC 1945-C",
+  "category": "contemporary",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D240MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White-White/Black-White/Grey-White"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1945-c.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoKAAoAA4BaJaQAAua72RyAAAD++BlxF7kzwhYXSrDzwgFxIUJGwPOQVrjQL6uBBI3rLpAs8wAAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1950",
+  "code": "GTC 1950",
+  "category": "multi-acoustic",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D3X260MM/L1200MM"
+   },
+   {
+    "label": "Finish",
+    "value": "Black"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal/Glass"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1950.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoKAAoAA4BaJaQAAucaY0tNoAD+9+hJj+gqPGMqoLPVFcp/U2O7P+fljyjEKiCH+HgAAAAA"
+  }
+ },
+ {
+  "slug": "gtc-1955",
+  "code": "GTC 1955",
+  "category": "multi-acoustic",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "3XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D3X300MM/L1200MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black/Grey"
+   },
+   {
+    "label": "Material",
+    "value": "Aluminium/Metal"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1955.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAAAwAQCdASoKAAoAA4BaJaQAA3AA/vSsrRgMVTsNzgOOZj9n6pMQgAAA"
+  }
+ },
+ {
+  "slug": "gtc-1956",
+  "code": "GTC 1956",
+  "category": "multi-acoustic",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "On request"
+   },
+   {
+    "label": "Finish",
+    "value": "On request"
+   },
+   {
+    "label": "Material",
+    "value": "Acoustic Fabric"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1956.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoKAAoAA4BaJaQAAt0NgE/BFgAA/vZ3k9832I+qyZMkdZTuTuTeMvYnVeEVtw5O/qIpbNXOI7VvuAAA"
+  }
+ },
+ {
+  "slug": "gtc-1957",
+  "code": "GTC 1957",
+  "category": "multi-acoustic",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "On request"
+   },
+   {
+    "label": "Finish",
+    "value": "On request"
+   },
+   {
+    "label": "Material",
+    "value": "Acoustic Fabric"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1957.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoKAAoAA4BaJaQAAt0NC1///WAAAP70DIulsXoqeg0JWR+PyLKgY7/XK2HaJgen2qOEq/cYjhQAAA=="
+  }
+ },
+ {
+  "slug": "gtc-1958",
+  "code": "GTC 1958",
+  "category": "multi-acoustic",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "On request"
+   },
+   {
+    "label": "Finish",
+    "value": "On request"
+   },
+   {
+    "label": "Material",
+    "value": "Acoustic Fabric"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-1958.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoKAAoAA4BaJaQAAt0MoUHiqAAA/vgZ5RgION25Sl43up2bZcvTM9cf0UvspuBZoAA="
+  }
+ },
+ {
+  "slug": "gtc-2000",
+  "code": "GTC 2000",
+  "category": "multi-acoustic",
+  "brochurePage": 24,
+  "specs": [
+   {
+    "label": "Lamp",
+    "value": "1XE27"
+   },
+   {
+    "label": "Dimensions",
+    "value": "D450/D600MM"
+   },
+   {
+    "label": "Finish",
+    "value": "White/Black/Grey"
+   },
+   {
+    "label": "Material",
+    "value": "FR+Acoustic Fabric"
+   }
+  ],
+  "image": {
+   "src": "/images/products/gtc-2000.webp",
+   "width": 800,
+   "height": 800,
+   "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoKAAoAA4BaJaQAAu1/v69P3T4AAP74GXGW7EWmXYKFPfV/vS2GNsyO3G77UOIUNzuof/RYgVrL9jEAAAA="
+  }
+ }
+]

@@ -1,36 +1,169 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# G Tech Lights — Website
 
-## Getting Started
-
-First, run the development server:
+Production website for **G Tech Lights** (https://gtechlights.com), built with Next.js 16 (App Router), React 19, TypeScript and Tailwind CSS 4.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev        # http://localhost:3000
+npm run build      # production build (247 static pages)
+npm start          # serve the production build
+npm run assets     # re-process photos from ../Information into public/images
+npm run lint       # ESLint
+npm run typecheck  # TypeScript
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Source material (brief, visiting card, logo, photos, client form) lives in `../Information`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 1. Plan & design decisions
 
-## Learn More
+### Brand analysis (from the visiting card & logo)
+- **Primary blue** `#1D4ABB` sampled from the visiting card (royal blue). Charcoal `#232323` from the "LIGHTS" wordmark.
+- Neutrals: ink `#07090F → #A9AFBD`, mist `#F4F6FA`, white. No other accent colours.
+- Kannada brand name **ಜಿ ಟೆಕ್ ಲೈಟ್ಸ್** is shown in the footer and contact card (Noto Sans Kannada).
+- Taglines used: "Engineering Light. Designing Experiences." and "Customized Lighting Solutions for Inspired Spaces".
+- **Positioning rule enforced everywhere:** "Established in 2026" and, separately, "Built on 20+ years of lighting industry experience" (the promoters' experience — never the company's age).
 
-To learn more about Next.js, take a look at the following resources:
+### Typography
+- **Manrope** (one family, weights 400–700) for everything — modern, geometric, technical.
+- The logo's HandelGothic BT wordmark is preserved in the logo artwork itself (see *Logo* below), not used as a web font.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Visual direction
+"Premium architectural lighting studio": dark hero sections with a thin 96px architectural grid, a subtle light-beam sweep, large editorial type, square edges, generous white space, and real installation photography. Motion is limited to a slow hero crossfade, image zoom on hover and CSS scroll reveals — all disabled under `prefers-reduced-motion`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Sitemap
+| Route | Page |
+|---|---|
+| `/` | Home (hero, Light That Defines Space, Expertise, Why, Featured Projects, Industries, From Concept to Light, Promoters, Customer References, CTA) |
+| `/about` | About — story, established vs experience, what defines us, mission, vision, values, directors, facility |
+| `/lighting-solutions` | 10 solution categories with applications, benefits, CTA (sticky category bar) |
+| `/products`, `/products/[slug]` | Catalogue of 198 products from the brochure in 10 ranges — search, filters, full specs, quote list; one page per product |
+| `/customized-lighting` | Shapes gallery, 7-step customization timeline, workshop |
+| `/projects`, `/projects/[slug]` | Filterable masonry portfolio with lightbox; 27 detail pages |
+| `/r-and-d` | Approach, 8-stage development process, workshop & testing areas |
+| `/ups-batteries` | UPS, batteries, installation, service & support, maintenance |
+| `/industries` | 8 industries |
+| `/why-g-tech-lights` | 8 reasons, key differentiator, customer references |
+| `/contact` | Enquiry form, contact details, WhatsApp/call/email, Google Map (`?type=` pre-selects the project type) |
+| `/insights`, `/insights/[slug]` | Lighting Insights (blog) |
+| `/privacy-policy`, `/cookie-policy`, `/terms`, `/disclaimer` | Legal pages (content in `src/data/legal.ts`) |
+| `/sitemap.xml`, `/robots.txt`, 404 | SEO & error pages |
 
-## Deploy on Vercel
+### Navigation
+Header: About · Lighting ▾ (Solutions, Customized, Products, R&D) · Projects · Industries · UPS & Batteries · Why Us · phone · **Discuss Your Project**. Mobile: hamburger menu + a sticky bottom bar (Call / WhatsApp / Enquire). Desktop: floating WhatsApp and back-to-top buttons.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Component architecture
+```
+src/
+  config/site.ts            ← company details, phones, emails, WhatsApp, nav (edit here first)
+  data/                     ← all content: projects, products, solutions, industries,
+                              company (about/mission/values/why), process, people, insights
+  data/image-manifest.json  ← generated by `npm run assets` (do not edit by hand)
+  lib/images.ts             ← photo(key, alt) lookup into the manifest
+  lib/seo.ts                ← per-page metadata, Organization / LocalBusiness / Breadcrumb JSON-LD
+  lib/enquiry.ts            ← enquiry validation shared by the form and the API route
+  lib/fit.ts                ← fit-to-screen layout classes (see section 2)
+  components/ui/            ← Container, Button, SectionHeading, Photo, Logo, PlaceholderVisual, JsonLd
+  components/layout/        ← Header, Footer, FloatingActions (WhatsApp, back-to-top, mobile bar)
+  components/sections/      ← HomeHero, PageHero, ProjectCard, ProjectGallery, Lightbox, ImageGrid,
+                              IndustryCard, LeadershipCard, WhyGrid, ProcessTimeline,
+                              ClientReferences, CTASection, ContactForm
+  app/                      ← routes, api/enquiry, sitemap, robots, icons, 404, loading
+scripts/build-assets.mjs    ← photo pipeline (WebP, crops, blur placeholders), logo SVGs, icons, OG image
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### SEO
+Per-page title/description, canonical URLs, Open Graph & Twitter cards (`public/og-image.jpg`), `Organization` + `LocalBusiness` JSON-LD (address, phones, GSTIN, primary email), `BreadcrumbList` on every inner page, `Article` on insights, XML sitemap, robots.txt, one H1 per page, descriptive alt text, keyword-targeted titles (architectural lighting / designer lights / customized lighting / UPS services — Bangalore/Bengaluru).
+
+### Performance & accessibility
+Static prerendering, `next/image` with AVIF/WebP + blur placeholders, lazy loading, self-hosted fonts via `next/font`, long-cache headers for `/images`, minimal client JS (header, hero, gallery, form, floating buttons only). Skip link, semantic landmarks, visible focus rings, native `<dialog>` lightbox, labelled form fields with inline errors, 44px+ touch targets.
+
+---
+
+## 2. Fit-to-screen layout
+
+From **1280px wide**, content sections are sized to exactly one screen below the 80px header, so a visitor who scrolls to a section sees all of it at once. Verified at 1280×720, 1280×800, 1366×768, 1440×900, 1536×864, 1600×900, 1920×950 and 1920×1080.
+
+- **How it works** — `src/lib/fit.ts` exports class strings:
+  - `fitSection` — the section is `100svh − 5rem` tall (`fitSectionSubnav` also subtracts the 57px sticky category bar on Lighting Solutions).
+  - `fitBody` / `fitFill` — the content column, and the flexible part (photo or card grid) that absorbs the leftover height.
+  - `fitCenter` — centres short content (e.g. Mission & Vision) instead of leaving a gap.
+  - `fitGap`, `fitImage` — height-aware spacing and stretchy image boxes.
+- **Short screens** — a custom Tailwind variant `short:` (≥1280px wide **and** ≤820px tall, defined in `globals.css`) tightens headings, padding and card text on laptops such as 1366×768.
+- **Heroes** — the home hero and inner-page intros scale their type and padding with screen height so they fit the first screen.
+- **Components** — `ProjectCard`, `IndustryCard`, `LeadershipCard`, `ImageGrid` accept a `fit` prop; `WhyGrid` accepts `className`.
+- **Home → Featured Projects** shows 3 projects on laptops/desktops (6 on tablets, 3 on phones).
+- **Not applied** (content is naturally long): product catalogue, contact form, projects gallery, project/product detail pages, articles.
+- **Below 1280px** (tablets, phones) sections flow and scroll normally.
+
+When adding a new section, use the same pattern: `fitSection` on the `<section>`, `fitBody` on the `Container`, `fitFill` on the element that should stretch — then check it at 1280×720 and 1920×1080.
+
+---
+
+## 2b. Legal & cookies
+
+- **Cookie banner** (`src/components/legal/CookieBanner.tsx`): Accept all / Essential only / Manage; "Cookie settings" in the footer reopens it. Choice stored in localStorage (`gtech-consent`, logic in `src/lib/consent.ts`).
+- **What is stored:** essential only — the quote list and the consent choice. No analytics or advertising cookies. **Google Maps** (contact page) is the only third-party content and loads only after consent (`ConsentMap`). If you add analytics later, add a new consent category and update the Cookie Policy.
+- **Enquiry form** requires a privacy-consent checkbox (validated on the server too); each enquiry email records the consent time.
+- **Policies** (`src/data/legal.ts`) follow the DPDP Act 2023 and IT Act 2000 and describe only what the site does. They are a template, **not legal advice** — have them reviewed by G Tech Lights' legal adviser, confirm the grievance contact, and update the date when changing them.
+
+## 3. Content integrity — what is real and what is a placeholder
+
+| Item | Status |
+|---|---|
+| Company details, phones, emails, GSTIN, mission, vision, values, about text | From client documents |
+| Leadership names, roles, experience | From client documents; Chethan's designation updated to **CEO** (Oct 2026) |
+| Channel partner (Orbilit Technology) | **Client-supplied** logo; shown as "Channel Partner" only — add the partner website in `src/data/partners.ts` when confirmed |
+| Director portraits | **Real** — supplied photographs (`public/images/team`) |
+| All other photographs | **Real** — supplied by G Tech Lights (site + workshop photos); no stock images |
+| Project titles, applications, lighting scopes | **Descriptive** of what is visible in each photo — please verify |
+| Project client names, locations, years | **Not supplied** → shown as "To be updated" |
+| Product codes, photos & specs | **From the client brochure** (`G_TECH_LIGHTS_Brochure.pdf`), transcribed as printed — see section 4 |
+| UPS/battery brands & capacities | **Not supplied** → "confirmed per requirement" |
+| Customer references (CGI, Infosys, …) | Text only, as provided. **No logos** until authorised |
+| Healthcare, residential, industrial imagery | **Not supplied** → neutral branded graphic |
+| Certifications, awards, capacity, turnover, employee count | **Deliberately not shown** |
+
+Some photos were cropped to remove third-party brand signage, TV screens, a camera watermark and faces (see `keep` in `scripts/build-assets.mjs`).
+
+### Still needed from the client
+1. SMTP details for the enquiry mailbox (the form falls back to email/WhatsApp/call until then).
+2. ~~WhatsApp number~~ — confirmed: +91 81978 31032 (main number for calls and WhatsApp).
+3. The original vector logo (CorelDRAW / AI / SVG).
+4. Project client names and locations; confirmation of project titles.
+5. Photos of healthcare, residential and industrial work.
+6. UPS/battery brands and capacities.
+7. Brochure queries: **GTC 1945-A** has no photo; codes printed twice with different specs — **GTC 1537**, **GTC 1845**, **GTC 1625-A** (second one probably 1625-C).
+8. Written permission before any customer logos are used.
+
+---
+
+## 4. Updating content
+
+- **Add a project:** put the photo in `../Information/...`, add a line to the `photos` list in `scripts/build-assets.mjs`, run `npm run assets`, then add an entry to `src/data/projects.ts` (fill `client`, `location`, `year` when known). Set `featured: true` to show it on the homepage.
+- **Director photos:** replace `../Information/Photo of Director_*.png` and run `npm run assets`. New leaders: add a `team` line to the pipeline and an entry in `src/data/people.ts`.
+- **Products:** edit `src/data/brochure-products.json` (codes, specs, category); categories are in `src/data/products.ts`. Regenerating from a new brochure: `scripts/brochure/README.md`.
+- **Quote list:** customers add products to a quote list (saved in their browser) and send it by WhatsApp or the contact form — `/contact?type=quotation&products=GTC 1504,GTC 1510` pre-fills the enquiry. Logic in `src/lib/quote.ts`.
+- **Customer logos:** only after written permission; replace the text grid in `ClientReferences.tsx`.
+- **New article:** add an object to `src/data/insights.ts`.
+- **Channel partners:** add the logo to the pipeline (folder `partners`, `{ png: true }` keeps transparency) and an entry in `src/data/partners.ts` — it appears on the home page, About page and footer.
+- **Phone / email / WhatsApp:** `src/config/site.ts` (WhatsApp can also be set with `NEXT_PUBLIC_WHATSAPP_NUMBER`).
+
+### Logo
+`public/images/logo/g-tech-lights-logo.svg` (and `-inverse.svg` for dark backgrounds) is a vector redraw of the supplied 263×80 PNG so it stays sharp on all screens; the original PNG is kept alongside it. **If the original CorelDRAW / vector logo file is available, drop it in to replace the redraw.**
+
+---
+
+## 5. Deployment (gtechlights.com)
+
+Recommended: **Vercel** (zero-config for Next.js) or any Node 20+ host (`npm run build && npm start`).
+
+1. Push this folder to a Git repository and import it in Vercel.
+2. Set environment variables (see `.env.example`):
+   - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS` — the mailbox that sends enquiries (e.g. info@gtechlights.com).
+   - `ENQUIRY_TO` (defaults to info@gtechlights.com), `ENQUIRY_FROM`, `NEXT_PUBLIC_WHATSAPP_NUMBER`.
+3. Add the domain `gtechlights.com` (and redirect `www`) in the host's domain settings and update DNS at the registrar.
+4. Submit `https://gtechlights.com/sitemap.xml` in Google Search Console and create/verify the Google Business Profile.
+
+Until SMTP is configured the form shows a clear fallback (pre-filled email to info@gtechlights.com, WhatsApp, or call), so no enquiry is lost.

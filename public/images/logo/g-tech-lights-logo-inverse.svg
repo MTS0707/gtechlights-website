@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 320" role="img" aria-label="G Tech Lights">
+<title>G Tech Lights</title>
+<g fill="none" stroke-width="40">
+<path d="M206.9,81.2A106,106 0 1 0 154.4,264.4" stroke="#5B86F0"/>
+<path d="M154.4,264.4A106,106 0 0 0 239.7,182.0" stroke="#C9D3EA"/>
+</g>
+<rect x="142" y="146" width="120" height="30" fill="#5B86F0"/>
+<path d="M305 30V300" stroke="#5B86F0" stroke-width="5"/>
+<g fill="none" stroke-width="12"><path d="M431,101H400A29,29 0 0 0 400,159H431V130H404.6" stroke="#FFFFFF"/><path d="M510,101H582M546,101V165" stroke="#FFFFFF"/><path d="M655,101H727M655,130H727M655,159H727" stroke="#C9D3EA"/><path d="M872,101H835A29,29 0 0 0 835,159H872" stroke="#FFFFFF"/><path d="M951,95V165M1011,95V165M951,130H1011" stroke="#FFFFFF"/></g>
+<g fill="none" stroke="#C9D3EA" stroke-width="8"><path d="M369,197V233H395"/><path d="M505,197V237"/><path d="M641,201H635A16,16 0 0 0 635,233H641V217H631.5"/><path d="M744,197V237M766,197V237M744,217H766"/><path d="M865,201H895M880,201V237"/><path d="M1020,201H1002A8,8 0 0 0 1002,217H1008A8,8 0 0 1 1008,233H990"/></g>
+</svg>

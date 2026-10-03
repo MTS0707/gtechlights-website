@@ -1,0 +1,278 @@
+{
+  "projects/backlit-dot-ceiling-auditorium": {
+    "src": "/images/projects/backlit-dot-ceiling-auditorium.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoMAAkAA4BaJZQAAqsOL5R4AOmZ2KB35YWXN2WUQAskU+N8V3QYHImFWPL4JM4pckBUUoKAAAA="
+  },
+  "projects/triple-ring-pendant-lounge": {
+    "src": "/images/projects/triple-ring-pendant-lounge.webp",
+    "width": 960,
+    "height": 1024,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABwAQCdASoMAA0AA4BaJZQAAYSKAAD5XWM2eVsZxlVNVNrm4uCKdfbBnzF9eDyAGHzPyqCC8kDS1IpN5ValjgAA"
+  },
+  "projects/infinity-loop-profile-pendant": {
+    "src": "/images/projects/infinity-loop-profile-pendant.webp",
+    "width": 1600,
+    "height": 1032,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoMAAgAA4BaJYgCdAD0drcuAAD845VzOXeGFAzKobeGLvamG8t7AIs5bW4OeUDHD0QAAA=="
+  },
+  "projects/salon-rounded-profile-pendants": {
+    "src": "/images/projects/salon-rounded-profile-pendants.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoMABAAA4BaJYgCdAD7Jzn0AAD+d042nOkLsBv7zTTr3adqNnCYK3rJz7g3j+2x5qKCnVp7jzV1b66U4CcNKK49oiORMJ1RtMTudjqYwAA="
+  },
+  "projects/workspace-drum-pendants": {
+    "src": "/images/projects/workspace-drum-pendants.webp",
+    "width": 1280,
+    "height": 960,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAkAA4BaJZQCdADhjk14zxAA+59vPe3bikmA5FiUIT11n/OcyY+7/O7xqSDmYEllyC08u+cAAA=="
+  },
+  "projects/salon-interlocking-profiles": {
+    "src": "/images/projects/salon-interlocking-profiles.webp",
+    "width": 1200,
+    "height": 992,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAoAA4BaJZACdAEHKSGKNEAA/tDaNdSyL7KBmOTGq5FXxwEvYUzRv1f032I6sKgcszgiZOrLT7EgAAA="
+  },
+  "projects/reception-linear-profile-grid": {
+    "src": "/images/projects/reception-linear-profile-grid.webp",
+    "width": 1280,
+    "height": 960,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAkAA4BaJQBOgBnu18XCswAA8nVYEArU9T7WBaFOb61V9k/hoZqAqs7L67M66FTRPn+YJ5s+4XuT9Lrse1wAAAA="
+  },
+  "projects/collaboration-cove-lighting": {
+    "src": "/images/projects/collaboration-cove-lighting.webp",
+    "width": 1280,
+    "height": 500,
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoMAAUAA4BaJZQAAurOvEw6AAD+t0M3Xqr0DS1APLtZHhFJc4Jnk2HwAAA="
+  },
+  "projects/backlit-stretch-ceiling-reception": {
+    "src": "/images/projects/backlit-stretch-ceiling-reception.webp",
+    "width": 1600,
+    "height": 576,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoMAAQAA4BaJZwAAlyhQMUAAP5JzIoDZGvKr3pbOWMyTkembP3xO3zOKR6m5h/HFWhwAA=="
+  },
+  "projects/cafeteria-cone-pendants": {
+    "src": "/images/projects/cafeteria-cone-pendants.webp",
+    "width": 1200,
+    "height": 1440,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMAA4AA4BaJZQC7AECwgWFo9UkAP68GxizWyAdOLcFB43H4LXvLASRHvf2D2XzqydTXQxDpHBcTcsO91gxAq4FC4+D4ta6MeA0AA=="
+  },
+  "projects/cafeteria-linear-and-round-panels": {
+    "src": "/images/projects/cafeteria-linear-and-round-panels.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoMAAkAA4BaJQAASgIAAAD+PfW0cS9TkgsyzFACaKOC8eUJSDQixNzg38oAAA=="
+  },
+  "projects/halo-ring-backlit-oval": {
+    "src": "/images/projects/halo-ring-backlit-oval.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoMAAkAA4BaJZwAAt1tPtikagAA/tDNfaLWECmG26KPnnWgKdY0jvzCRHhoyICyHAA="
+  },
+  "projects/pantry-globes-and-vertical-linear": {
+    "src": "/images/projects/pantry-globes-and-vertical-linear.webp",
+    "width": 1280,
+    "height": 960,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoMAAkAA4BaJZwAAxYXZddPKAD+8VKktWE9z1d88Lswhzw5nNOOp2+Go9Sj38IxnQyckRThka8kQAAA"
+  },
+  "projects/library-wave-profile": {
+    "src": "/images/projects/library-wave-profile.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAkAA4BaJZQCdAEVcF6Ux8AA/I+XRcPufRLHF2K7982g3I+fu7PA10dMUASZoz6FhBVb2hen9j4YR+CwAAAA"
+  },
+  "projects/oblong-profile-pendant": {
+    "src": "/images/projects/oblong-profile-pendant.webp",
+    "width": 720,
+    "height": 720,
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoMAAwAA4BaJZACdADcVGdrQADLA+PABT74u7+mIRFDcVOIst6fmVgTlPZf04Qih1qyO+N/wrpdKJ1p1wlJ6qp5q/Qa7vmgAAA="
+  },
+  "projects/hexagon-linear-ceiling": {
+    "src": "/images/projects/hexagon-linear-ceiling.webp",
+    "width": 1280,
+    "height": 612,
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoMAAYAA4BaJaQAAmcl6LwAzja8v+r84YDvD7MNu39T3uI8ij4DGGj6AAA="
+  },
+  "projects/layered-loop-profiles": {
+    "src": "/images/projects/layered-loop-profiles.webp",
+    "width": 576,
+    "height": 576,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAwAA4BaJagCdAEfvTWGlwAA/ukISHsMnfx969+JJnwP3nPHKvD8E0JoBL4U9mL5EGfjCqf13CjTvp08l4RYho2vuO2WqaYAAA=="
+  },
+  "projects/square-profile-pendant": {
+    "src": "/images/projects/square-profile-pendant.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAkAA4BaJZQC7AELLK+i6wAA/r4d8waaryAS5GDnpg2cxD4gNCcCJ3pn9fKIeF6tMCRsVWYdQdfeDAA="
+  },
+  "projects/fitness-studio-linear-and-rings": {
+    "src": "/images/projects/fitness-studio-linear-and-rings.webp",
+    "width": 1280,
+    "height": 960,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMAAkAA4BaJQBdgCBUi3UQAP7aixT2ImTsQf9iayu9VxkHnGwfINwlyvzFbQ0A0ke6Km07C8FQAA=="
+  },
+  "projects/restaurant-lantern-pendants": {
+    "src": "/images/projects/restaurant-lantern-pendants.webp",
+    "width": 719,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoMABsAPu1iqU2ppaQiMAgBMB2JYgCdAYwc7f7tiZ51qVUS7bSYAAD+7D72O88xgf2yEoNg0y7AtfolAzJdO+lNrPS9YKa/IEe8CDY7Krk9Tfc9iT533bvj/wI1aJm9svshHCH/9lTEtylXBVEbPZRX9xyqJ5Ry1a6T/dIGLkqAXrvjXa+0z9ekzoTrJWf8tQ21WvYDYw6dXfwBAiAAAA=="
+  },
+  "projects/hexagon-frame-pendants": {
+    "src": "/images/projects/hexagon-frame-pendants.webp",
+    "width": 1280,
+    "height": 720,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoMAAcAA4BaJYgAAjkqcAAA/qL25c/aT7V+Q9UDbhTf/a1b3BKsWBDf3fRWvwN29yGcUZ0ObWwAAA=="
+  },
+  "projects/rounded-triangle-profile": {
+    "src": "/images/projects/rounded-triangle-profile.webp",
+    "width": 584,
+    "height": 1040,
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBACdASoMABUAPu1iqU2ppaQiMAgBMB2JZQC7ABZ09mvhgqwy1k9Ee+AA+Z2PSCr2KNqtt30EZjEgsXKzo/AlmLOV2pTlWIleSpVzF6BCrLWchGj/x5hIaIrjUS9UvdShZvrup2wWt3kV5IAhuHRxbswFo8FSAAA="
+  },
+  "projects/gym-hexagon-grid-ceiling": {
+    "src": "/images/projects/gym-hexagon-grid-ceiling.webp",
+    "width": 720,
+    "height": 1280,
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAwCdASoMABUAPu1Ct1apoqakGAEwHYljAABc2Y3Io51ccZTAAP7wxEj4yx+l6H3FnR+V3hxLdUEXIQ5S8kLke07AhZ1A+1SYhRTW+31OLcaU9ohAB+GcDSHCIuCVmdMUxa4llJaPuT9L322SjOwA"
+  },
+  "projects/large-ring-pendants": {
+    "src": "/images/projects/large-ring-pendants.webp",
+    "width": 1160,
+    "height": 653,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoMAAcAA4BaJYwCdAD0MYo0AP7M1Qzr4Y4bFLeaEVNPT6/+j+2yDYDB/+nCPk/S67HtcAAA"
+  },
+  "projects/globe-pendant-gold-shade": {
+    "src": "/images/projects/globe-pendant-gold-shade.webp",
+    "width": 900,
+    "height": 1216,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMABAAA4BaJYgCdACgqtB5QAD+5tBFEdTTl/ybba22I1I4h6ZAEV2i8dHK3eXgnL2NN2zBV8lpnU8uPFMerLCuAAA="
+  },
+  "projects/pleated-fabric-pendant": {
+    "src": "/images/projects/pleated-fabric-pendant.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoMABAAA4BaJZAC7ADblCsm1AD+cc8ui3QQt+eCstF8jIIGuZ+y2JkHf1O+iU6GB9h1msyTh5iXckNchP66BFy02qyRAAAA"
+  },
+  "projects/cylinder-pendants": {
+    "src": "/images/projects/cylinder-pendants.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoMABAAA4BaJZgC7Ef/gdMP4xcInoAA2yAwlvVcWz0lucpJqy80BsC2grDL+kEtN2x8HwDeEnCrr//N4/3lRQYPyEolkAAA"
+  },
+  "projects/origami-pendant": {
+    "src": "/images/projects/origami-pendant.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoMABAAA4BaJZQCdAYuvbVUM02AAP7pUiqgP0AgbMuDB2sUeC6JqK6E0DjV8a3ij5urvY/9h9HK+qhe1uGxtYgo6CkH6QdVmL3rIzd3G2TqU/b1IWq5t9+mmiAAAA=="
+  },
+  "projects/stitched-fabric-pendant": {
+    "src": "/images/projects/stitched-fabric-pendant.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMABAAA4BaJQBYdiHPLXFmCYAA/vaITACrmLbdOekgEfxXXAMaZUVvAE+dNLUD7vfNsmXbqKnQYz0o+hiAmzpN9XdEEAAA"
+  },
+  "projects/drum-pendant-timber-frame": {
+    "src": "/images/projects/drum-pendant-timber-frame.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAgCdASoMABAAA4BaJYwCdAELhloxiOu3MAAA/tjuJr6vijDmwtwVTzK3pU6tbQDsjK0bI3IcwSSDrltRTSMwGXZgygl2vVDtv32QjD4xQAAA"
+  },
+  "team/gangadhara-h-c": {
+    "src": "/images/team/gangadhara-h-c.webp",
+    "width": 1086,
+    "height": 1448,
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoMABAAA4BaJYwCdAYrdbHIgfDkAP74uiMteNAhjEHWd6H3T1qAr2UwLmcHOR7Yzondef2JXl/YxjiACIQb6T+AWpxpjpoi0Uq/tifv+muxlB/37yrbtDQBRzLZcksplSgAAA=="
+  },
+  "team/chethan": {
+    "src": "/images/team/chethan.webp",
+    "width": 1201,
+    "height": 1310,
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwAgCdASoMAA0AA4BaJQBYdtM7fTafm6bDpE9AAP72dnS9alMCRIuO0mr38XAJQO/H9hCuQ7oZU74kHemFHrH0W/7F4Mt/879ddvdhgMKVf4t1do88Puj599qilBdCJxhTIwAA"
+  },
+  "facility/fabricated-ring-and-linear-frames": {
+    "src": "/images/facility/fabricated-ring-and-linear-frames.webp",
+    "width": 720,
+    "height": 1280,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAwCdASoMABUAPu1iqU2ppaOiMAgBMB2JZQCw7BsYC1pQsfszMADibSCWgLBu3IWPn99ri1m7YgFWMtETp14+LiwplwAO6H1EQ0Qis/WBWWuikEZtgKx6gV8Kp7xiu7E5K4X4B60YTMthjYsJnfecm2OCAA=="
+  },
+  "facility/hexagon-luminaires-production": {
+    "src": "/images/facility/hexagon-luminaires-production.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoMAAkAA4BaJQBOgCIg8M0rzgAAzgdWJ/FCYHP5nNhlSIiG4odzgg/LgOqNzXLUoGyyAoKHYkulRAAA"
+  },
+  "facility/hexagon-luminaires-assembly": {
+    "src": "/images/facility/hexagon-luminaires-assembly.webp",
+    "width": 1200,
+    "height": 1600,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoMABAAA4BaJYwCdAYvDEGjFdDy2AD+AJnk97XUNwgsalI3YfAlJhh3e7WXSYaXqtprPmfw9CZLHUox9vrdrOv4ut4gi+5qjX2rQAfiYASbwAAA"
+  },
+  "facility/facility-exterior": {
+    "src": "/images/facility/facility-exterior.webp",
+    "width": 1800,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAkAA4BaJbACdAEPRYTlS0AA+yOIzS5dSwu9aCuaZPklJAvFH1BBsr2C/hDHOa2hyVgsvO47vnA5iSbAAA=="
+  },
+  "facility/workshop-floor": {
+    "src": "/images/facility/workshop-floor.webp",
+    "width": 1800,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAkAA4BaJQBWACBvpQpu50AA/sBPfu3aLEc3N6CKyOatXPV3pDd1aC8sDyvUDHm+tzPq+T8LMM+ZvjxdW8AA"
+  },
+  "facility/facility-office": {
+    "src": "/images/facility/facility-office.webp",
+    "width": 1800,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoMAAkAA4BaJZACdAEVYjCL2gAA/onca1OoFq8RFqFCh4GEPvGq7rMB8cxmt0d6s3QxOEN18cyjXGtyFhYai/TZbQG5/2e86YtkFDHd0qAAAA=="
+  },
+  "facility/assembling-area": {
+    "src": "/images/facility/assembling-area.webp",
+    "width": 1800,
+    "height": 2400,
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoMABAAA4BaJbACdEf/gegtO0eeZAAA/e/jq2HKrcvN+t+PtVdKZN9CNF7VHGboKFz1R3mSL5FE/xbGGTS88p+qnwplFm9NEHHJvRjBiC1OTKPVlXLO9NX8dLb4gvvu0AA="
+  },
+  "facility/testing-area": {
+    "src": "/images/facility/testing-area.webp",
+    "width": 1800,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoMAAkAA4BaJZQCdADcohC18EAAzXWeJVHyak56cJVcLVZjZ02yG0abdCmEN/UBdSnyLzCpgIc49CAA"
+  },
+  "facility/linear-profiles-production": {
+    "src": "/images/facility/linear-profiles-production.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAkAA4BaJZAC7AEOy9KAAAD+bFBUn8FGzLaT72FHt0zcYFJZduIv/dzpWUQinnBtivpfl60W/PL3feQwAA=="
+  },
+  "facility/linear-luminaires-assembled": {
+    "src": "/images/facility/linear-luminaires-assembled.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAkAA4BaJbACdADcULJMoAD+SZfeA/mYq7PyWBNuurKCoXqf+pCEG8s0b6t0umiMhlNkv0KGAbsRfQopYw9NPfIYAA=="
+  },
+  "facility/linear-assembly-bench": {
+    "src": "/images/facility/linear-assembly-bench.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoMAAkAA4BaJagCdAD5j2z7T2AA/mmxhPWGkJHYqHYcXIkHjI/A16EZ+Vm2a+wzZonMAszKD17Z4tYFFCzLupQsTyHniZcg9Q+lCEkAAAA="
+  },
+  "facility/ring-luminaires-batch": {
+    "src": "/images/facility/ring-luminaires-batch.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoMAAkAA4BaJbACdAEXe+SkZaAAAP39GmdlyEeFtaW8Dg4sYNyxyX5AL8uj6piGvPFIrfLSCNpXYRvgB3yY3JJir/Mj1essKSyLdkWAAAA="
+  },
+  "facility/workshop-sample-racks": {
+    "src": "/images/facility/workshop-sample-racks.webp",
+    "width": 1600,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAkAA4BaJQAAS6SMRwF+AAD81w+Jt6kcgdiSfyp/2G3N5OA5jlDJvVie2wLlYDVXGpnr8LC/4MG6EldAAA=="
+  },
+  "partners/orbilit-technology": {
+    "src": "/images/partners/orbilit-technology.webp",
+    "width": 1800,
+    "height": 274,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4WAoAAAAQAAAACwAAAQAAQUxQSBkAAAAAfiIsSlxONjdCQkE9nlMRERUTERcYBQUaAFZQOCA2AAAAsAEAnQEqDAACAAOAWiUAToAh4CAmCAD+6j/J5kSr/9e+pRk7UuzwYkX0/RtAzaW8Y+YM4AAA"
+  }
+}

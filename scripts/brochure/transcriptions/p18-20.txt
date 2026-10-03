@@ -1,0 +1,27 @@
+p18-1|GTC 7508|Lamp: 1XE27|Dimensions: D400MM|Finish: Black-White/White-White|Material: Aluminium/Metal
+p18-2|GTC 7430|Lamp: 1XE27|Dimensions: D250MM|Finish: Black-White|Material: Aluminium
+p18-3|GTC 1895|Lamp: 1XE27|Dimensions: D250MM|Finish: White-White/Black-White|Material: Aluminium
+p18-4|GTC 7712-A|Lamp: 1XE27|Dimensions: D190MM|Finish: Black-Gold|Material: Aluminium
+p18-5|GTC 7712-B|Lamp: 1XE27|Dimensions: D240MM|Finish: Black-Gold|Material: Aluminium
+p18-6|GTC 7712-C|Lamp: 1XE27|Dimensions: D360MM|Finish: Black-Gold|Material: Aluminium
+p18-7|GTC 7712-D|Lamp: 1XE27|Dimensions: D350MM|Finish: Black-Gold|Material: Aluminium
+p18-8|GTC 1030|Lamp: 1XE27|Dimensions: D400MM|Finish: White-White/Black-White|Material: Aluminium/Metal
+p18-9|GTC 2560|Lamp: 1XE27|Dimensions: D180MM|Finish: Black/White/Grey|Material: Metal
+p19-1|GTC 1900|Lamp: 1XE27|Dimensions: D420MM|Finish: Dark Brown|Material: Aluminium
+p19-2|GTC 1902|Lamp: 1XE27|Dimensions: D300MM|Finish: Dark Granite|Material: Aluminium
+p19-3|GTC 1903|Lamp: 1XE27|Dimensions: D400MM|Finish: Cream Stone|Material: Aluminium
+p19-4|GTC 1904|Lamp: 1XE27|Dimensions: D300MM|Finish: White Granite|Material: Aluminium
+p19-5|GTC 1905|Lamp: 1XE27|Dimensions: D300/D400MM|Finish: Wooden|Material: Aluminium
+p19-6|GTC 7485|Lamp: 1XE27|Dimensions: D300MM|Finish: Black-Gold/White-Gold|Material: Aluminium
+p19-7|GTC 1907|Lamp: 1XE27|Dimensions: D300/D400MM|Finish: Wooden|Material: Aluminium
+p19-8|GTC 1908|Lamp: 1XE27|Dimensions: D320MM|Finish: Wooden|Material: Aluminium
+p19-9|GTC 1910|Lamp: 1XE27|Dimensions: D400MM|Finish: Wooden|Material: Aluminium/Metal
+p20-1|GTC 7931|Lamp: 1XE27|Dimensions: D320MM|Finish: Black/White|Material: Aluminium/Metal
+p20-2|GTC 7943|Lamp: 1XE27|Dimensions: D360/D460MM|Finish: Black/White|Material: Aluminium/Metal
+p20-3|GTC 1685|Lamp: 1XE27|Dimensions: D250MM|Finish: Black/White|Material: Aluminium/Metal
+p20-4|GTC 1915|Lamp: 1XE27|Dimensions: D400MM|Finish: Black|Material: Aluminium/Metal
+p20-5|GTC 1917|Lamp: 1XE27|Dimensions: D300MM|Finish: Black|Material: Metal
+p20-6|GTC 1918|Lamp: 1XE27|Dimensions: D600MM|Finish: Black|Material: Metal
+p20-7|GTC 1919|Lamp: 1XE27|Dimensions: D400MM|Finish: Black|Material: Metal/Wood
+p20-8|GTC 1920|Lamp: 1XE27|Dimensions: D270MM|Finish: Black|Material: Metal
+p20-9|GTC 1922|Lamp: 1XE27|Dimensions: D260MM|Finish: Black|Material: Metal

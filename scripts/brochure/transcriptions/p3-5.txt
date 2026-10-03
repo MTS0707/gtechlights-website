@@ -1,0 +1,27 @@
+p3-1|GTC 1504-ECO|Wattage: 36W|Cct: 6500K/4000K/3000K|Lumens: 3560Lm|Dimensions: L1200XW150XH75MM|Finish: Black/White|Material: Aluminium Die Cast
+p3-2|GTC 1504|Wattage: 18W/36W/72W|Cct: 6500K/4000K/3000K|Lumens: 1780/3560/7120Lm|Dimensions: L600XW50XH70/L1200XW50XH70/L1800XW50XH70/L2400XW50XH70MM|Finish: Black/White|Material: Aluminium Die Cast
+p3-3|GTC 1510|Wattage: 48W|Cct: 6500K/4000K/3000K|Lumens: 4750Lm|Dimensions: L1200XW35XH70MM|Finish: Black/White|Material: Aluminium Die Cast
+p3-4|GTC 1515|Wattage: 48W|Cct: 6500K/4000K/3000K|Lumens: 4750Lm|Dimensions: L1200XW50XH70MM|Finish: Black/White|Material: Aluminium Die Cast
+p3-5|GTC 1504-WD|Wattage: 36W|Cct: 6500K/4000K/3000K|Lumens: 3560Lm|Dimensions: L1200XW50XH70MM|Finish: Black/White|Material: Aluminium Die Cast
+p3-6|GTC 1525-A|Wattage: 22W|Cct: 6500K/4000K/3000K|Lumens: 2170Lm|Dimensions: L1200MM|Finish: Wooden|Material: Wooden/Aluminium
+p3-7|GTC 1525-B|Wattage: 22W|Cct: 6500K/4000K/3000K|Lumens: 2170Lm|Dimensions: L1200MM|Finish: Wooden|Material: Wooden/Aluminium
+p3-8|GTC 1525-C|Wattage: 22W|Cct: 6500K/4000K/3000K|Lumens: 2170Lm|Dimensions: L1200MM|Finish: Wooden|Material: Wooden/Aluminium
+p3-9|GTC 1525-D|Wattage: 22W|Cct: 6500K/4000K/3000K|Lumens: 2170Lm|Dimensions: L1200MM|Finish: Wooden|Material: Wooden/Aluminium
+p4-1|GTC 1490|Wattage: 55W|Cct: 6500K/4000K/3000K|Lumens: 5440Lm|Dimensions: D750XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p4-2|GTC 1495|Wattage: 55W|Cct: 6500K/4000K/3000K|Lumens: 5440Lm|Dimensions: D750XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p4-3|GTC 1500|Wattage: 30W/36W/48W/55W/75W|Cct: 6500K/4000K/3000K|Lumens: 2970/3560/4750/5440/7420Lm|Dimensions: D300XH75/D450XH75/D600XH75/D750XH75/D900XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p4-4|GTC 1501|Wattage: 36W/48W/55W/75W|Cct: 6500K/4000K/3000K|Lumens: 2970/3560/4750/5440/7420Lm|Dimensions: D450XH75/D600XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p4-5|GTC 1503|Wattage: 48W/55W|Cct: 6500K/4000K/3000K|Lumens: 4750/5440Lm|Dimensions: L1200XW300MM/L1200XW600MM|Finish: White/Black|Material: Aluminium Die Cast
+p4-6|GTC 1505|Wattage: 36W/48W/75W|Cct: 6500K/4000K/3000K|Lumens: 3560/4750/7420Lm|Dimensions: D450XH75/D600XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p4-7|GTC 1506|Wattage: 36W/48W/75W|Cct: 6500K/4000K/3000K|Lumens: 3560/4750/7420Lm|Dimensions: D450XH75/D600XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p4-8|GTC 1508|Wattage: 48W|Cct: 6500K/4000K/3000K|Lumens: 4750Lm|Dimensions: D600XH75MM|Finish: Black/Wooden|Material: Aluminium Die Cast
+p4-9|GTC 1509|Wattage: 36W/48W|Cct: 6500K/4000K/3000K|Lumens: 3560/4750Lm|Dimensions: D450XH75/D600XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-1|GTC 1520|Wattage: 36W/48W/75W|Cct: 6500K/4000K/3000K|Lumens: 3560/4750/7420Lm|Dimensions: D300XH75/D450XH75/D600XH75/D900XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-2|GTC 1521|Wattage: 36W/48W/75W|Cct: 6500K/4000K/3000K|Lumens: 3560/4750/7420Lm|Dimensions: D450XH75/D600XH75/D900XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-3|GTC 1523|Wattage: 55W/110W|Cct: 6500K/4000K/3000K|Lumens: 5440/10890Lm|Dimensions: L600XW300XH70/L1200XW600XH70MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-4|GTC 1522|Wattage: 36W/48W/75W|Cct: 6500K/4000K/3000K|Lumens: 3560/4750/7420Lm|Dimensions: D450XH75/D600XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-5|GTC 1524|Wattage: 36W/48W/75W|Cct: 6500K/4000K/3000K|Lumens: 3560/4750/7420Lm|Dimensions: D450XH75/D600XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-6|GTC 1526|Wattage: 48W|Cct: 6500K/4000K/3000K|Lumens: 4750Lm|Dimensions: D600XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-7|GTC 1730|Wattage: 30W/40W|Cct: 6500K/4000K/3000K|Lumens: 2970/3960Lm|Dimensions: D450XH75/D600XH75/D900XH75MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-8|GTC 1760-A|Wattage: 30W|Cct: 4000K/3000K|Lumens: 2970Lm|Dimensions: D600XH25MM|Finish: White/Black|Material: Aluminium Die Cast
+p5-9|GTC 5035|Wattage: 36W|Cct: 6500K/4000K/3000K|Lumens: 3560Lm|Dimensions: L1200XW50XH35MM|Finish: White/Black|Material: Aluminium Die Cast

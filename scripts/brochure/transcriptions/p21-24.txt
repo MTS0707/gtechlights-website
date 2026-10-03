@@ -1,0 +1,36 @@
+p21-1|GTC 1925-A|Lamp: 1XE27|Dimensions: D250MM|Finish: Black|Material: Metal
+p21-2|GTC 1925-B|Lamp: 1XE27|Dimensions: D250MM|Finish: Black|Material: Metal
+p21-3|GTC 1925-C|Lamp: 1XE27|Dimensions: D350MM|Finish: Black|Material: Metal
+p21-4|GTC 1926|Lamp: 1XE27|Dimensions: D200MM|Finish: Black|Material: Metal
+p21-5|GTC 1927|Lamp: 1XE27|Dimensions: D280MM|Finish: Black|Material: Metal
+p21-6|GTC 1928|Lamp: 1XE27|Dimensions: D300MM|Finish: Black|Material: Metal
+p21-7|GTC 1680|Lamp: 1XE27|Dimensions: D120MM|Finish: Black|Material: Metal
+p21-8|GTC 1681|Lamp: 1XE27|Dimensions: D110MM|Finish: Black|Material: Metal
+p21-9|GTC 1686|Lamp: 1XE27|Dimensions: D190MM|Finish: Black|Material: Metal
+p22-1|GTC 1684|Lamp: 1XE27|Dimensions: D150MM|Finish: Black|Material: Metal
+p22-2|GTC 1687|Lamp: 1XE27|Dimensions: D190MM|Finish: Black|Material: Metal
+p22-3|GTC 1682|Lamp: 1XE27|Dimensions: D180MM|Finish: Black|Material: Metal
+p22-4|GTC 1800|Lamp: 1XE27|Dimensions: D400MM|Finish: Black|Material: Metal/Fabric
+p22-5|GTC 1690-A|Lamp: 1XE27|Dimensions: D280MM|Finish: Black|Material: Metal/Fabric
+p22-6|GTC 1690-B|Lamp: 1XE27|Dimensions: D300MM|Finish: Copper|Material: Metal/Fabric
+p22-7|GTC 1695-A|Lamp: 1XE27|Dimensions: D300MM|Finish: Black|Material: Metal
+p22-8|GTC 1695-B|Lamp: 1XE27|Dimensions: D300MM|Finish: Copper|Material: Metal
+p22-9|GTC 1930|Lamp: 1XE27|Dimensions: D300MM|Finish: Black|Material: Metal
+p23-1|GTC 1932|Lamp: 1XE27|Dimensions: D300MM|Finish: Black|Material: Metal
+p23-2|GTC 1933|Lamp: 1XE27|Dimensions: D270MM|Finish: Gold|Material: Metal
+p23-3|GTC 1935|Lamp: 1XE27|Dimensions: D300MM|Finish: Gold|Material: Metal
+p23-4|GTC 2470|Lamp: 1XE27|Dimensions: D178MM|Finish: Clear White|Material: Metal/Glass
+p23-5|GTC 2480|Lamp: 1XE27|Dimensions: D178MM|Finish: Clear White|Material: Metal/Glass
+p23-6|GTC 2490|Lamp: 1XE27|Dimensions: D203MM|Finish: Clear White|Material: Metal/Glass
+p23-7|GTC 2500|Lamp: 1XE27|Dimensions: D203MM|Finish: Clear White|Material: Metal/Glass
+p23-8|GTC 1938|Lamp: 1XE27|Dimensions: D250/D300MM|Finish: Milky White|Material: Metal/Glass
+p23-9|GTC 1940|Lamp: 1XE27|Dimensions: D300MM|Finish: Black|Material: Aluminium/Glass
+p24-1|GTC 1945-A|Lamp: 1XE27|Dimensions: D160MM|Finish: White-White/Black-White/Grey-White|Material: Aluminium/Metal
+p24-2|GTC 1945-B|Lamp: 1XE27|Dimensions: D190MM|Finish: White-White/Black-White/Grey-White|Material: Aluminium/Metal
+p24-3|GTC 1945-C|Lamp: 1XE27|Dimensions: D240MM|Finish: White-White/Black-White/Grey-White|Material: Aluminium/Metal
+p24-4|GTC 1950|Lamp: 1XE27|Dimensions: D3X260MM/L1200MM|Finish: Black|Material: Aluminium/Metal/Glass
+p24-5|GTC 1955|Lamp: 3XE27|Dimensions: D3X300MM/L1200MM|Finish: White/Black/Grey|Material: Aluminium/Metal
+p24-6|GTC 1956|Lamp: 1XE27|Dimensions: On request|Finish: On request|Material: Acoustic Fabric
+p24-7|GTC 1957|Lamp: 1XE27|Dimensions: On request|Finish: On request|Material: Acoustic Fabric
+p24-8|GTC 1958|Lamp: 1XE27|Dimensions: On request|Finish: On request|Material: Acoustic Fabric
+p24-9|GTC 2000|Lamp: 1XE27|Dimensions: D450/D600MM|Finish: White/Black/Grey|Material: FR+Acoustic Fabric
