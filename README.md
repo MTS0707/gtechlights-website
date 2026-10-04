@@ -128,7 +128,7 @@ When adding a new section, use the same pattern: `fitSection` on the `<section>`
 Some photos were cropped to remove third-party brand signage, TV screens, a camera watermark and faces (see `keep` in `scripts/build-assets.mjs`).
 
 ### Still needed from the client
-1. Web3Forms access key for info@gtechlights.com (free; the form falls back to email/WhatsApp/call until then) — see section 5.
+1. ~~Web3Forms access key~~ — done: set as repo variable `WEB3FORMS_KEY` (Oct 2026); live form tested and delivering to info@gtechlights.com.
 2. ~~WhatsApp number~~ — confirmed: +91 81978 31032 (main number for calls and WhatsApp).
 3. The original vector logo (CorelDRAW / AI / SVG).
 4. Project client names and locations; confirmation of project titles.
@@ -136,6 +136,8 @@ Some photos were cropped to remove third-party brand signage, TV screens, a came
 6. UPS/battery brands and capacities.
 7. Brochure queries: **GTC 1945-A** has no photo; codes printed twice with different specs — **GTC 1537**, **GTC 1845**, **GTC 1625-A** (second one probably 1625-C).
 8. Written permission before any customer logos are used.
+9. Legal review of the policy pages and a named Grievance Officer.
+10. Orbilit Technology website URL (to link its logo).
 
 ---
 
@@ -169,8 +171,8 @@ The site is a **static export** (`output: "export"` in `next.config.ts`): `npm r
    - Add four `A` records for `@`: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.
    - Add a `CNAME` record for `www` → `<github-username>.github.io`.
    - Leave `MX` and other email records unchanged (they run the info@gtechlights.com mailbox).
-4. **Enquiry form** — get a free access key at [web3forms.com](https://web3forms.com) for `info@gtechlights.com`, add it under **Settings → Secrets and variables → Actions → Variables** as `WEB3FORMS_KEY`, and re-run the workflow. Until then the form shows an email / WhatsApp / call fallback.
-5. **After launch** — submit `https://gtechlights.com/sitemap.xml` in Google Search Console and set up the Google Business Profile.
+4. **Enquiry form** — get a free access key at [web3forms.com](https://web3forms.com) for `info@gtechlights.com`, add it under **Settings → Secrets and variables → Actions → Variables** as `WEB3FORMS_KEY`, and re-run the workflow. Until then the form shows an email / WhatsApp / call fallback. **Done Oct 2026.** After a deploy, test with a hard refresh — browsers may keep the old page for up to 10 minutes.
+5. **After launch** — Google Search Console: Domain property `gtechlights.com` is verified by a DNS `TXT` record `google-site-verification=…` at Hostinger (**do not delete it**); sitemap submitted and main pages requested for indexing (Oct 2026). Still to do: Google Business Profile.
 
 ### Limits of static hosting
 - No server code: the enquiry form posts directly to Web3Forms (`src/lib/sendEnquiry.ts`, 250 free submissions/month).
