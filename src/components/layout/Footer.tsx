@@ -28,10 +28,10 @@ export function Footer() {
 
           <nav aria-label="Footer" className="lg:col-span-3">
             <h2 className="eyebrow text-white">Quick Links</h2>
-            <ul className="mt-6 grid grid-cols-2 gap-x-6 gap-y-3 text-[0.95rem] lg:grid-cols-1">
+            <ul className="mt-6 grid grid-cols-2 gap-x-6 gap-y-1 text-[0.95rem] lg:grid-cols-1 lg:gap-y-3">
               {footerNav.map((item) => (
                 <li key={item.href}>
-                  <Link href={item.href} className="transition-colors hover:text-white">
+                  <Link href={item.href} className="inline-flex min-h-10 items-center transition-colors hover:text-white lg:min-h-0">
                     {item.label}
                   </Link>
                 </li>
@@ -112,16 +112,16 @@ export function Footer() {
         <div className="mt-10 flex flex-col gap-3 border-t border-white/10 pt-8 text-xs sm:flex-row sm:items-center sm:justify-between">
           <p>© {site.established} {site.name}. All Rights Reserved.</p>
           <nav aria-label="Legal">
-            <ul className="flex flex-wrap gap-x-5 gap-y-2">
+            <ul className="flex flex-wrap gap-x-5 sm:gap-y-2">
               {legalDocs.map((d) => (
                 <li key={d.slug}>
-                  <Link href={`/${d.slug}`} className="transition-colors hover:text-white">
+                  <Link href={`/${d.slug}`} className="inline-flex min-h-10 items-center transition-colors hover:text-white sm:min-h-0">
                     {d.title}
                   </Link>
                 </li>
               ))}
               <li>
-                <CookieSettingsLink className="transition-colors hover:text-white" />
+                <CookieSettingsLink className="min-h-10 transition-colors hover:text-white sm:min-h-0" />
               </li>
             </ul>
           </nav>

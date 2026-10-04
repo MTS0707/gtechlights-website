@@ -36,7 +36,7 @@ export function PageHero({ eyebrow, title, intro, image, breadcrumb, children }:
               <li key={c.path} className="flex items-center gap-2">
                 {i > 0 && <span aria-hidden>/</span>}
                 {i < crumbs.length - 1 ? (
-                  <Link href={c.path} className="transition-colors hover:text-white">
+                  <Link href={c.path} className="-my-2 inline-block py-2 transition-colors hover:text-white">
                     {c.name}
                   </Link>
                 ) : (

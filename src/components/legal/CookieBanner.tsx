@@ -52,15 +52,15 @@ export function CookieBanner() {
 
         <div className="mt-5 flex flex-wrap gap-2">
           {manage ? (
-            <button type="button" onClick={() => save(embeds)} className="min-h-11 flex-1 bg-brand-600 px-4 text-sm font-semibold text-white hover:bg-brand-500">
+            <button type="button" onClick={() => save(embeds)} className="min-h-11 flex-1 whitespace-nowrap bg-brand-600 px-4 text-sm font-semibold text-white hover:bg-brand-500">
               Save choices
             </button>
           ) : (
             <>
-              <button type="button" onClick={() => save(true)} className="min-h-11 flex-1 bg-brand-600 px-4 text-sm font-semibold text-white hover:bg-brand-500">
+              <button type="button" onClick={() => save(true)} className="min-h-11 flex-1 whitespace-nowrap bg-brand-600 px-4 text-sm font-semibold text-white hover:bg-brand-500">
                 Accept all
               </button>
-              <button type="button" onClick={() => save(false)} className="min-h-11 flex-1 border border-white/25 px-4 text-sm font-semibold text-white hover:border-white">
+              <button type="button" onClick={() => save(false)} className="min-h-11 flex-1 whitespace-nowrap border border-white/25 px-4 text-sm font-semibold text-white hover:border-white">
                 Essential only
               </button>
               <button type="button" onClick={() => setManage(true)} className="min-h-11 px-3 text-sm font-semibold text-ink-300 underline underline-offset-2 hover:text-white">

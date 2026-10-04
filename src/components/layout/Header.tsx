@@ -33,7 +33,7 @@ export function Header() {
 
   return (
     <header
-      className={`on-dark fixed inset-x-0 top-0 z-50 transition-colors duration-500 ${
+      className={`on-dark fixed inset-x-0 top-0 z-[60] transition-colors duration-500 ${
         scrolled || open ? "border-b border-white/10 bg-ink-950/92 backdrop-blur-md" : "bg-gradient-to-b from-ink-950/70 to-transparent"
       }`}
     >
